@@ -3429,3 +3429,39 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[01Dec2024 05:14:37.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4518ms or 90 ticks behind
+[01Dec2024 05:14:55.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01Dec2024 05:15:04.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 05:15:04.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sat <<--[HERE]
+[01Dec2024 05:15:08.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] >
+[01Dec2024 05:15:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> <
+[01Dec2024 05:15:27.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> >
+[01Dec2024 05:16:30.053] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=218, y=-28, z=4600}
+[01Dec2024 05:17:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[01Dec2024 05:17:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 95.500000, 130.500000, 3516.500000]
+[01Dec2024 05:18:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 05:18:13.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Gracias supongo
+[01Dec2024 05:18:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> si no lo quierne, pos lo matan
+[01Dec2024 05:18:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 95.500000, 130.500000, 3516.500000]
+[01Dec2024 05:20:27.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn
+[01Dec2024 05:20:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> venite
+[01Dec2024 05:20:35.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pofa
+[01Dec2024 05:20:40.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Nunca acabaré esta casa
+[01Dec2024 05:20:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[01Dec2024 05:20:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pues no
+[01Dec2024 05:20:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ froze to death
+[01Dec2024 05:20:59.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> o quieres volvera casa?
+[01Dec2024 05:21:15.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cual casa?
+[01Dec2024 05:21:22.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> JAJAJA
+[01Dec2024 05:21:31.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to junior_mtz_]
+[01Dec2024 05:21:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> te paso algo al ds
+[01Dec2024 05:23:34.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> we
+[01Dec2024 05:23:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que es esoo
+[01Dec2024 05:24:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Puedes ayudarnos?
+[01Dec2024 05:24:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ was doomed to fall
+[01Dec2024 05:24:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> voy yo o tu jhyn?
+[01Dec2024 05:24:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tu
+[01Dec2024 05:24:28.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was pierced by Cryomancer's icicle
+[01Dec2024 05:24:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[01Dec2024 05:24:34.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to junior_mtz_]
+[01Dec2024 05:24:51.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to 123.500000, 166.500000, 4377.500000]
