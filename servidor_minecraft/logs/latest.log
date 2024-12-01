@@ -3628,3 +3628,24 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 06:23:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to 71.500000, 68.500000, 2909.500000]
 [01Dec2024 06:24:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
 [01Dec2024 06:24:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 06:31:06.808] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[01Dec2024 06:31:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Fuimos a una
+[01Dec2024 06:31:48.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/126356, l='ServerLevel[world]', x=108.55, y=64.00, z=2833.05] died: Witch was shot by Pepishikita21
+[01Dec2024 06:32:03.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yr
+[01Dec2024 06:32:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 06:32:46.987] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/126355, l='ServerLevel[world]', x=112.07, y=67.00, z=2833.01] died: Witch was slain by Gondar_80
+[01Dec2024 06:32:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[01Dec2024 06:32:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> las vengo a visitar
+[01Dec2024 06:33:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> son tus cuñadas
+[01Dec2024 06:33:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 06:33:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ay una serpiente marina
+[01Dec2024 06:35:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 06:35:47.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Timed out
+[01Dec2024 06:35:47.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[01Dec2024 06:35:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 06:35:54.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> volví
+[01Dec2024 06:36:12.723] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[01Dec2024 06:36:22.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.95.93.58:44619] logged in with entity id 135745 at (106.26878187512894, 67.0, 2834.6527375869678)
+[01Dec2024 06:36:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[01Dec2024 06:36:22.714] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[01Dec2024 06:36:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
