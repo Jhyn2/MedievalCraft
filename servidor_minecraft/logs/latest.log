@@ -3649,3 +3649,24 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 06:36:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
 [01Dec2024 06:36:22.714] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
 [01Dec2024 06:36:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[01Dec2024 06:36:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ah si estaban al lado xD
+[01Dec2024 06:37:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Sea? Not a Problem]
+[01Dec2024 06:38:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con las escamas se pueden hacer armadura pa respira bajo el awa
+[01Dec2024 06:39:01.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> cualquier parte sirve
+[01Dec2024 06:39:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tego bota
+[01Dec2024 06:40:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [You Will Pay For It!]
+[01Dec2024 06:40:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> el que'
+[01Dec2024 06:41:17.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Haganse los tapones
+[01Dec2024 06:41:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> La respiracion es infinita?
+[01Dec2024 06:41:26.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ci
+[01Dec2024 06:41:38.456] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=56, y=-45, z=2517}
+[01Dec2024 06:42:04.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Tie me to the Mast]
+[01Dec2024 06:42:09.101] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[01Dec2024 06:43:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 06:43:46.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sau }<--[HERE]
+[01Dec2024 06:43:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 06:43:53.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sau }<--[HERE]
+[01Dec2024 06:43:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] }
+[01Dec2024 06:45:43.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[01Dec2024 06:45:53.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/139994, l='ServerLevel[world]', x=2.50, y=47.00, z=2838.50]
+[01Dec2024 06:45:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ay no ta lloviendo

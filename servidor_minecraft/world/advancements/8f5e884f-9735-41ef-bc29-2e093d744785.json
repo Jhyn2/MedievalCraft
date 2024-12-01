@@ -731,18 +731,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2024-12-01 06:19:38 +0000"
-    },
-    "done": true
-  },
-  "taxov:advancement_marine": {
-    "criteria": {
-      "advancement_marine_0": "2024-12-01 06:19:39 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2024-12-01 04:03:28 +0000"
@@ -755,9 +743,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-01 06:19:38 +0000"
+    },
+    "done": true
+  },
+  "taxov:advancement_marine": {
+    "criteria": {
+      "advancement_marine_0": "2024-12-01 06:19:39 +0000"
+    },
+    "done": true
+  },
   "taxov:advancement_pirate": {
     "criteria": {
       "advancement_pirate_0": "2024-12-01 06:19:39 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2024-12-01 06:40:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 06:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 06:37:16 +0000"
     },
     "done": true
   },
