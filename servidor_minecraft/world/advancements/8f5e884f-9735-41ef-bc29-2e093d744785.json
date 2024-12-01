@@ -732,5 +732,11 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-01 04:18:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
