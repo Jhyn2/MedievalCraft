@@ -262,8 +262,10 @@
       "minecraft:taiga": "2024-11-16 06:29:59 +0000",
       "minecraft:deep_ocean": "2024-11-21 19:40:43 +0000",
       "minecraft:frozen_river": "2024-11-16 06:30:25 +0000",
+      "minecraft:birch_forest": "2024-12-01 05:41:38 +0000",
       "minecraft:wooded_badlands": "2024-11-21 18:13:37 +0000",
       "minecraft:beach": "2024-11-16 05:50:33 +0000",
+      "minecraft:dark_forest": "2024-12-01 05:37:43 +0000",
       "minecraft:stony_peaks": "2024-12-01 04:09:53 +0000",
       "minecraft:sparse_jungle": "2024-11-21 19:13:09 +0000",
       "minecraft:river": "2024-11-16 06:49:26 +0000",
@@ -584,6 +586,12 @@
   "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
     "criteria": {
       "requirement": "2024-12-01 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-01 05:28:05 +0000"
     },
     "done": true
   },
