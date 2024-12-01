@@ -5687,3 +5687,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 19:33:49.044] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [01Dec2024 19:37:28.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died, message: 'Caroll was slain by Zombie'
 [01Dec2024 19:37:28.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died: Caroll was slain by Zombie
+[01Dec2024 19:45:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tt
