@@ -3024,3 +3024,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 17:35:38.095] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=990, y=1, z=1851}
 [01Dec2024 17:35:38.097] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1006, y=3, z=1857}
 [01Dec2024 17:36:03.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [All Along The Watchtower]
+[01Dec2024 17:37:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was slain by Zombie Villager
+[01Dec2024 17:37:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 978.500000, 144.500000, 1973.500000]
+[01Dec2024 17:38:41.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was slain by Zombie Villager
+[01Dec2024 17:38:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 999.500000, 141.500000, 1970.500000]
+[01Dec2024 17:39:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was slain by Zombie Villager
+[01Dec2024 17:39:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1028.500000, 134.500000, 1978.500000]
+[01Dec2024 17:40:06.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was slain by Zombie Villager
