@@ -5738,3 +5738,58 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 20:18:41.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
 [01Dec2024 20:18:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1103.500000, 166.500000, 1065.500000]
 [01Dec2024 20:19:52.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> caben 3 mas por el momento
+[01Dec2024 20:21:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
+[01Dec2024 20:21:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1103.500000, 166.500000, 1065.500000]
+[01Dec2024 20:21:42.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
+[01Dec2024 20:22:00.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> yastuvo
+[01Dec2024 20:22:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> raje una civiliazación xd
+[01Dec2024 20:22:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1103.500000, 166.500000, 1065.500000]
+[01Dec2024 20:25:17.390] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[01Dec2024 20:25:17.412] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[01Dec2024 20:25:17.413] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[01Dec2024 20:25:50.904] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[01Dec2024 20:25:50.904] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[01Dec2024 20:25:50.905] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[01Dec2024 20:25:50.912] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[01Dec2024 20:28:32.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[01Dec2024 20:28:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[01Dec2024 20:30:00.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:00.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:00.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:00.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 20:30:00.973] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 20:30:03.958] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:03.959] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:03.959] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 20:30:03.959] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 20:30:03.959] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 20:30:03.959] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 20:30:30.155] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[01Dec2024 20:30:35.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:46653] logged in with entity id 41192 at (-349.02761880597893, 86.0, 1057.6238670011087)
+[01Dec2024 20:30:35.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[01Dec2024 20:30:35.432] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[01Dec2024 20:33:12.230] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-411, y=34, z=540}
+[01Dec2024 20:33:18.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jamison'/43369, l='ServerLevel[world]', x=1314.68, y=85.71, z=715.97] died: Jamison was slain by Iron Golem
+[01Dec2024 20:33:31.651] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[01Dec2024 20:33:31.652] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[01Dec2024 20:33:58.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-322, y=-24, z=430}
+[01Dec2024 20:33:59.181] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-456, y=24, z=421}
+[01Dec2024 20:34:15.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e e e
+[01Dec2024 20:34:18.709] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-240, y=-34, z=344}
+[01Dec2024 20:34:18.710] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-240, y=-34, z=342}
+[01Dec2024 20:34:24.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> ooooo
+[01Dec2024 20:34:28.121] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-417, y=-2, z=321}
+[01Dec2024 20:34:30.559] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-406, y=39, z=287}
+[01Dec2024 20:34:30.559] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-406, y=39, z=287}
+[01Dec2024 20:34:30.559] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-406, y=39, z=287}
+[01Dec2024 20:34:33.190] [Worker-Main-65/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-258, y=8, z=278}
+[01Dec2024 20:34:36.339] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-520, y=-1, z=255}
+[01Dec2024 20:34:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Mine? Mine? Mine?]
+[01Dec2024 20:35:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
+[01Dec2024 20:35:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[01Dec2024 20:35:27.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> lugar equivocao
+[01Dec2024 20:35:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[01Dec2024 20:35:32.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> jajajaja
+[01Dec2024 20:37:10.527] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-194, y=-44, z=42}
+[01Dec2024 20:38:02.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/45361, l='ServerLevel[world]', x=-290.88, y=64.88, z=230.70] died: Witch was slain by Pepeowo
+[01Dec2024 20:39:13.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/45360, l='ServerLevel[world]', x=-288.70, y=67.00, z=224.93] died: Witch was slain by Pepeowo
