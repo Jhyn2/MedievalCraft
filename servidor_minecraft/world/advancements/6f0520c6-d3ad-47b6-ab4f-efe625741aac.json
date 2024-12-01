@@ -49,6 +49,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-01 20:56:33 +0000",
       "scrubland": "2024-11-20 03:28:20 +0000",
       "highland": "2024-11-16 04:16:16 +0000",
       "marsh": "2024-11-16 05:07:27 +0000",
@@ -58,7 +59,10 @@
       "bog": "2024-11-16 04:34:55 +0000",
       "coniferous_forest": "2024-11-16 07:39:05 +0000",
       "spider_nest": "2024-11-16 04:21:36 +0000",
-      "fir_clearing": "2024-11-29 04:06:54 +0000"
+      "dead_forest": "2024-12-01 20:55:25 +0000",
+      "fir_clearing": "2024-11-29 04:06:54 +0000",
+      "snowy_coniferous_forest": "2024-12-01 20:52:31 +0000",
+      "snowy_maple_woods": "2024-12-01 20:56:13 +0000"
     },
     "done": false
   },
