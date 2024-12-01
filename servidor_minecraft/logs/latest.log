@@ -3286,3 +3286,108 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 04:32:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Bastante
 [01Dec2024 04:32:59.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJA Niños
 [01Dec2024 04:33:09.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> multivoltereta se puede poner en peto?
+[01Dec2024 04:33:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> En el casco
+[01Dec2024 04:33:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nomás
+[01Dec2024 04:33:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> va
+[01Dec2024 04:34:43.534] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-370, y=-26, z=1652}
+[01Dec2024 04:35:15.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to 500.000000, 63.000000, 2745.000000]
+[01Dec2024 04:35:42.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Valentine'/59585, l='ServerLevel[world]', x=477.07, y=69.50, z=2818.09] died, message: 'Valentine was turned into KFC by Fire Dragon'
+[01Dec2024 04:35:42.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Valentine'/59585, l='ServerLevel[world]', x=477.07, y=69.50, z=2818.09] died: Valentine was turned into KFC by Fire Dragon
+[01Dec2024 04:35:46.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Brooks'/59582, l='ServerLevel[world]', x=470.86, y=71.50, z=2820.87] died, message: 'Brooks was incinerated by Fire Dragon'
+[01Dec2024 04:35:46.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Brooks'/59582, l='ServerLevel[world]', x=470.86, y=71.50, z=2820.87] died: Brooks was turned into KFC by Fire Dragon
+[01Dec2024 04:35:47.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jeanie'/59583, l='ServerLevel[world]', x=484.51, y=67.00, z=2820.54] died, message: 'Jeanie was turned into KFC by Fire Dragon'
+[01Dec2024 04:35:47.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jeanie'/59583, l='ServerLevel[world]', x=484.51, y=67.00, z=2820.54] died: Jeanie was incinerated by Fire Dragon
+[01Dec2024 04:35:56.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Catrice'/59586, l='ServerLevel[world]', x=483.50, y=66.00, z=2820.70] died, message: 'Catrice burned to death'
+[01Dec2024 04:35:56.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Catrice'/59586, l='ServerLevel[world]', x=483.50, y=66.00, z=2820.70] died: Catrice burned to death
+[01Dec2024 04:36:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A Blood Moon cannot be triggered now!
+[01Dec2024 04:36:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oa
+[01Dec2024 04:37:00.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ya me dio sueño
+[01Dec2024 04:37:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 04:37:43.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.309439263496245,4.011253330065728,-0.16001282110278225
+[01Dec2024 04:37:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Quiero terminar el techo por lo menos
+[01Dec2024 04:37:49.902] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[01Dec2024 04:37:49.902] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[01Dec2024 04:37:49.903] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[01Dec2024 04:37:49.903] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[01Dec2024 04:38:11.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi, pero solo 1 stak
+[01Dec2024 04:38:22.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 04:38:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ajajja
+[01Dec2024 04:39:20.586] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[01Dec2024 04:39:20.587] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[01Dec2024 04:40:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 184.500000, 144.500000, 4203.500000]
+[01Dec2024 04:41:08.411] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[01Dec2024 04:41:08.411] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[01Dec2024 04:41:08.411] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[01Dec2024 04:41:08.412] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[01Dec2024 04:41:08.412] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[01Dec2024 04:41:08.412] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[01Dec2024 04:41:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyn ta bien?
+[01Dec2024 04:41:30.102] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[01Dec2024 04:41:30.106] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[01Dec2024 04:41:30.106] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[01Dec2024 04:41:30.106] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[01Dec2024 04:41:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sí por?
+[01Dec2024 04:41:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> A, como no se metio al ds
+[01Dec2024 04:44:49.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Nop
+[01Dec2024 04:45:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ño
+[01Dec2024 04:45:17.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> De piedra negra
+[01Dec2024 04:45:33.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01Dec2024 04:45:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 04:46:22.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Por el momento no
+[01Dec2024 04:46:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 184.500000, 144.500000, 4203.500000]
+[01Dec2024 04:48:13.669] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[01Dec2024 04:48:14.368] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[01Dec2024 04:48:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 04:48:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XDDD
+[01Dec2024 04:48:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> weeeeeee
+[01Dec2024 04:48:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> JAJAJAJA
+[01Dec2024 04:48:34.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ACISAAAA
+[01Dec2024 04:48:36.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn lo vio JAJAJA
+[01Dec2024 04:48:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> AVISA
+[01Dec2024 04:48:40.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Justo los vi xDDD
+[01Dec2024 04:49:00.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Lo mejor de mi noche
+[01Dec2024 04:49:07.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[01Dec2024 04:50:10.957] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[01Dec2024 04:50:33.478] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=22, z=15}
+[01Dec2024 04:50:33.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=15}
+[01Dec2024 04:50:33.480] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=20}
+[01Dec2024 04:50:33.507] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-273, y=28, z=15}
+[01Dec2024 04:50:33.508] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=27, z=20}
+[01Dec2024 04:50:33.562] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-306, y=28, z=17}
+[01Dec2024 04:50:41.073] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[01Dec2024 04:50:41.747] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=25, z=13}
+[01Dec2024 04:50:41.777] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=14}
+[01Dec2024 04:50:41.778] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=14}
+[01Dec2024 04:51:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> hay palos?
+[01Dec2024 04:53:20.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> boi
+[01Dec2024 04:53:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn, poder 5 a 64 sin desucento
+[01Dec2024 04:54:07.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pero lo wa tradear porque demore 10 mins par que me lo de:v
+[01Dec2024 04:54:09.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> paciencia no tengo :v
+[01Dec2024 04:54:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ya tu sa
+[01Dec2024 04:54:13.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Crew'/77251, l='ServerLevel[world]', x=874.06, y=68.25, z=4024.30] died: Crew was slain by junior_mtz_
+[01Dec2024 04:54:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> LPTMRE SE CAMBIO
+[01Dec2024 04:54:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> AHHH
+[01Dec2024 04:55:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to 819.000000, 66.000000, 4031.000000]
+[01Dec2024 04:55:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has completed the challenge [Find: Ruin pillager]
+[01Dec2024 04:56:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[01Dec2024 04:57:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Gonda
+[01Dec2024 04:57:36.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Te has puesto el sombrero pa tradear?
+[01Dec2024 04:58:03.413] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[01Dec2024 04:58:03.414] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[01Dec2024 05:00:13.726] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[01Dec2024 05:01:07.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[01Dec2024 05:01:19.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pos lo dieron a 1 gema
+[01Dec2024 05:01:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> no diré quién fue pelón de golpear a un aldeano
+[01Dec2024 05:01:31.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[01Dec2024 05:01:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> bueno :c
+[01Dec2024 05:01:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> me voy poe
+[01Dec2024 05:01:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 05:01:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> te sabes el orden de eso?
+[01Dec2024 05:02:28.054] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[01Dec2024 05:02:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> estamos reunidos aqui
+[01Dec2024 05:02:59.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> jajajaja
+[01Dec2024 05:03:09.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pa sacrificar a Gondar
+[01Dec2024 05:03:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[01Dec2024 05:03:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> HJAJAJAJAJA
+[01Dec2024 05:03:14.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pos fui yo
+[01Dec2024 05:03:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyncito ya nonos quiere:c
