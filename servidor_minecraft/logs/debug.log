@@ -12407,3 +12407,52 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 06:05:03.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [01Dec2024 06:05:31.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [01Dec2024 06:05:32.914] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:06:53.057] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:07:07.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 06:07:07.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 06:07:13.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:07:22.406] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:07:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ay un coso de eso que nos costo matar
+[01Dec2024 06:07:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> de los mil no se que
+[01Dec2024 06:07:53.255] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:07:53.256] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:07:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> El Ferrous
+[01Dec2024 06:08:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XDDD
+[01Dec2024 06:08:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[01Dec2024 06:09:37.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:09:50.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Si quieren pueden venir
+[01Dec2024 06:10:07.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:10:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Postmortal]
+[01Dec2024 06:10:13.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:10:53.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Lane'/123216, l='ServerLevel[world]', x=81.16, y=95.42, z=3177.05] died: Lane was slain by Elephant
+[01Dec2024 06:11:10.280] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121646, l='ServerLevel[world]', x=224.17, y=99.56, z=3293.57, removed=DISCARDED]
+[01Dec2024 06:11:13.561] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:11:21.458] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:11:30.605] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:11:32.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121646, l='ServerLevel[world]', x=224.17, y=99.56, z=3293.57, removed=DISCARDED]
+[01Dec2024 06:12:01.861] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:12:07.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 06:12:07.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 06:12:13.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 06:12:29.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:12:36.206] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:12:53.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:12:53.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:03.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[01Dec2024 06:13:06.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[01Dec2024 06:13:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[01Dec2024 06:13:20.274] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:26.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[01Dec2024 06:13:28.912] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[01Dec2024 06:13:34.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:34.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:34.313] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:46.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:13:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[01Dec2024 06:14:06.819] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121646, l='ServerLevel[world]', x=224.17, y=99.56, z=3293.57, removed=DISCARDED]
+[01Dec2024 06:14:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> YA ES DICIEMBREEE
+[01Dec2024 06:15:02.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> WI WICHU A MERI CRISMAAS
+[01Dec2024 06:15:22.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> desde hace 2 meses tenemos navidad xD
+[01Dec2024 06:15:25.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[01Dec2024 06:15:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
