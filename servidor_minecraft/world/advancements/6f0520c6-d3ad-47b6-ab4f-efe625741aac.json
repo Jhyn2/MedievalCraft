@@ -50,18 +50,22 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-01 20:56:33 +0000",
+      "snowblossom_grove": "2024-12-01 22:58:23 +0000",
       "scrubland": "2024-11-20 03:28:20 +0000",
       "highland": "2024-11-16 04:16:16 +0000",
       "marsh": "2024-11-16 05:07:27 +0000",
       "wetland": "2024-11-16 04:16:05 +0000",
       "cold_desert": "2024-11-16 03:32:47 +0000",
       "maple_woods": "2024-11-16 04:16:27 +0000",
+      "field": "2024-12-01 22:56:49 +0000",
       "bog": "2024-11-16 04:34:55 +0000",
       "coniferous_forest": "2024-11-16 07:39:05 +0000",
       "spider_nest": "2024-11-16 04:21:36 +0000",
       "dead_forest": "2024-12-01 20:55:25 +0000",
       "fir_clearing": "2024-11-29 04:06:54 +0000",
       "snowy_coniferous_forest": "2024-12-01 20:52:31 +0000",
+      "snowy_fir_clearing": "2024-12-01 22:56:51 +0000",
+      "tundra": "2024-12-01 23:01:04 +0000",
       "snowy_maple_woods": "2024-12-01 20:56:13 +0000"
     },
     "done": false
@@ -135,6 +139,7 @@
       "cooked_porkchop": "2024-11-29 03:50:51 +0000",
       "cooked_mutton": "2024-11-29 03:58:57 +0000",
       "cooked_beef": "2024-11-29 04:21:32 +0000",
+      "baked_potato": "2024-12-01 22:50:39 +0000",
       "apple": "2024-11-16 07:21:36 +0000",
       "pumpkin_pie": "2024-11-16 07:25:20 +0000",
       "bread": "2024-11-16 03:40:31 +0000",
@@ -200,6 +205,7 @@
       "minecraft:beach": "2024-11-29 04:47:02 +0000",
       "minecraft:river": "2024-11-16 06:42:07 +0000",
       "minecraft:lukewarm_ocean": "2024-11-30 03:23:50 +0000",
+      "minecraft:snowy_plains": "2024-12-01 22:54:29 +0000",
       "minecraft:snowy_taiga": "2024-12-01 20:37:15 +0000",
       "minecraft:swamp": "2024-11-30 05:07:47 +0000",
       "minecraft:cold_ocean": "2024-11-29 04:06:26 +0000",
@@ -484,6 +490,24 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-01 23:08:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 23:28:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2024-12-01 23:24:33 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-01 20:34:59 +0000"
@@ -493,6 +517,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-01 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-01 23:40:27 +0000"
     },
     "done": true
   },
