@@ -5793,3 +5793,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 20:37:10.527] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-194, y=-44, z=42}
 [01Dec2024 20:38:02.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/45361, l='ServerLevel[world]', x=-290.88, y=64.88, z=230.70] died: Witch was slain by Pepeowo
 [01Dec2024 20:39:13.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/45360, l='ServerLevel[world]', x=-288.70, y=67.00, z=224.93] died: Witch was slain by Pepeowo
+[01Dec2024 20:41:03.948] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-589, y=-7, z=194}
+[01Dec2024 20:41:04.136] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-583, y=0, z=182}
+[01Dec2024 20:41:12.119] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-608, y=-45, z=-77}
+[01Dec2024 20:41:12.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-608, y=-45, z=-76}
+[01Dec2024 20:42:16.256] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-631, y=36, z=319}
+[01Dec2024 20:42:16.256] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-630, y=36, z=319}
+[01Dec2024 20:42:16.257] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-630, y=37, z=319}
+[01Dec2024 20:42:16.257] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-629, y=36, z=319}
