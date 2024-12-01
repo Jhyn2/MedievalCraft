@@ -830,5 +830,29 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-12-01 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-01 22:07:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-01 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-01 22:41:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

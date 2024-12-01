@@ -583,9 +583,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 04:01:28 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
     "criteria": {
       "requirement": "2024-12-01 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_pillager": "2024-12-01 04:55:53 +0000"
     },
     "done": true
   },
@@ -595,15 +607,15 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "deflected_projectile": "2024-12-01 04:01:28 +0000"
+      "bestiary": "2024-12-01 22:47:09 +0000"
     },
     "done": true
   },
-  "awesomedungeonocean:root": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "awesomedungeonocean:ocean_ruin_pillager": "2024-12-01 04:55:53 +0000"
+      "bestiary": "2024-12-01 22:48:34 +0000"
     },
     "done": true
   },
