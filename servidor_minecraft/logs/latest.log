@@ -5655,3 +5655,35 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 19:04:33.621] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [01Dec2024 19:05:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn cuando leas esto
 [01Dec2024 19:05:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> el arco de hueso no funciona con flechas normales?
+[01Dec2024 19:12:21.711] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=672, y=22, z=1703}
+[01Dec2024 19:12:21.711] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=672, y=22, z=1701}
+[01Dec2024 19:13:15.450] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=909, y=6, z=1569}
+[01Dec2024 19:13:15.450] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=909, y=6, z=1571}
+[01Dec2024 19:13:35.398] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=998, y=-13, z=1537}
+[01Dec2024 19:13:37.857] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=762, y=-51, z=1523}
+[01Dec2024 19:13:38.128] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=836, y=23, z=1535}
+[01Dec2024 19:14:19.812] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=870, y=-51, z=1519}
+[01Dec2024 19:14:19.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=870, y=-51, z=1518}
+[01Dec2024 19:14:34.526] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1029, y=-29, z=1617}
+[01Dec2024 19:14:34.526] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1029, y=-29, z=1617}
+[01Dec2024 19:14:34.527] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1029, y=-29, z=1617}
+[01Dec2024 19:15:12.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=781, y=-2, z=1450}
+[01Dec2024 19:15:23.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Robby'/17656, l='ServerLevel[world]', x=749.52, y=143.00, z=1500.65] died, message: 'Robby suffocated in a wall'
+[01Dec2024 19:15:23.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Robby'/17656, l='ServerLevel[world]', x=749.52, y=143.00, z=1500.65] died: Robby suffocated in a wall
+[01Dec2024 19:15:36.743] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1043, y=40, z=1527}
+[01Dec2024 19:18:40.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] <
+[01Dec2024 19:18:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn :v
+[01Dec2024 19:22:22.851] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[01Dec2024 19:26:53.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Darcie'/19376, l='ServerLevel[world]', x=939.12, y=124.00, z=1306.50] died, message: 'Darcie was slain by Zombie'
+[01Dec2024 19:26:53.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Darcie'/19376, l='ServerLevel[world]', x=939.12, y=124.00, z=1306.50] died: Darcie was slain by Zombie
+[01Dec2024 19:27:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aaaaaaaa
+[01Dec2024 19:33:05.771] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 19:33:05.772] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 19:33:49.042] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 19:33:49.043] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 19:33:49.043] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[01Dec2024 19:33:49.043] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 19:33:49.044] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 19:33:49.044] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[01Dec2024 19:37:28.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died, message: 'Caroll was slain by Zombie'
+[01Dec2024 19:37:28.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died: Caroll was slain by Zombie
