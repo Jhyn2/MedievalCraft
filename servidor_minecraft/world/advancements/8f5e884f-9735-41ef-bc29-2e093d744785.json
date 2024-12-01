@@ -75,6 +75,7 @@
       "seasonal_orchard": "2024-11-29 03:39:28 +0000",
       "dune_beach": "2024-12-01 06:19:11 +0000",
       "seasonal_forest": "2024-11-16 04:26:25 +0000",
+      "dead_forest": "2024-12-01 21:07:51 +0000",
       "rocky_rainforest": "2024-11-28 04:19:24 +0000",
       "volcanic_plains": "2024-11-21 18:59:09 +0000",
       "fir_clearing": "2024-11-28 22:03:50 +0000",
@@ -818,6 +819,12 @@
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2024-12-01 20:17:02 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-01 21:04:52 +0000"
     },
     "done": true
   },
