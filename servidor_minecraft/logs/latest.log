@@ -3391,3 +3391,41 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 05:03:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> HJAJAJAJAJA
 [01Dec2024 05:03:14.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pos fui yo
 [01Dec2024 05:03:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyncito ya nonos quiere:c
+[01Dec2024 05:03:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nada que ver
+[01Dec2024 05:03:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a ti, a mi si
+[01Dec2024 05:04:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> es que me ignoro:c
+[01Dec2024 05:04:29.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn, me preta su arco?
+[01Dec2024 05:04:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pa ke?
+[01Dec2024 05:05:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> es en ese orden, no?
+[01Dec2024 05:05:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> para ver los encantamientos y orden poe :v
+[01Dec2024 05:05:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> we di le das a la U y la segunda pestaña de arriba lo vez
+[01Dec2024 05:06:15.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pero no que seguias un orden?
+[01Dec2024 05:06:36.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hazlo como una espada de Filo
+[01Dec2024 05:06:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> va
+[01Dec2024 05:06:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> btw, tendrás un hueso de wither?
+[01Dec2024 05:06:50.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no
+[01Dec2024 05:07:03.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['August'/88407, l='ServerLevel[world]', x=118.70, y=127.75, z=4102.52] died: August was slain by Iron Golem
+[01Dec2024 05:07:09.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['Freshah'/88386, l='ServerLevel[world]', x=238.50, y=150.00, z=4183.21] died: Freshah was slain by junior_mtz_
+[01Dec2024 05:07:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ta bien
+[01Dec2024 05:07:18.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Veta'/87581, l='ServerLevel[world]', x=109.61, y=127.00, z=4091.54] died: Veta was slain by Iron Golem
+[01Dec2024 05:07:28.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jared'/88552, l='ServerLevel[world]', x=105.50, y=127.70, z=4109.49] died: Jared was slain by Iron Golem
+[01Dec2024 05:09:28.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que gonitooo
+[01Dec2024 05:09:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> cua cua
+[01Dec2024 05:09:53.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 737.500000, 93.500000, 285.500000]
+[01Dec2024 05:10:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -707.500000, 102.500000, 4043.500000]
+[01Dec2024 05:10:11.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 184.500000, 144.500000, 4203.500000]
+[01Dec2024 05:10:30.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Elidia'/87608, l='ServerLevel[world]', x=129.97, y=114.00, z=4127.22] died: Elidia was slain by Gorilla
+[01Dec2024 05:11:46.340] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[01Dec2024 05:12:07.115] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[01Dec2024 05:12:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nuu
+[01Dec2024 05:13:43.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[01Dec2024 05:14:01.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Dec2024 05:14:18.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[01Dec2024 05:14:22.463] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[01Dec2024 05:14:22.463] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[01Dec2024 05:14:22.463] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[01Dec2024 05:14:22.463] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[01Dec2024 05:14:22.464] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
