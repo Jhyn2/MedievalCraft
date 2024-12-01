@@ -5688,3 +5688,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [01Dec2024 19:37:28.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died, message: 'Caroll was slain by Zombie'
 [01Dec2024 19:37:28.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Caroll'/21598, l='ServerLevel[world]', x=1159.02, y=106.00, z=1200.48] died: Caroll was slain by Zombie
 [01Dec2024 19:45:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tt
+[01Dec2024 20:01:40.635] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[01Dec2024 20:01:45.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:60771] logged in with entity id 25694 at (-348.09035343165243, 81.0, 1057.7730637696095)
+[01Dec2024 20:01:45.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[01Dec2024 20:01:45.926] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[01Dec2024 20:09:23.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pepeeeeeeeeee
+[01Dec2024 20:09:31.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> hi
+[01Dec2024 20:09:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> GONDAAAAAARRRR
+[01Dec2024 20:09:36.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oa
+[01Dec2024 20:09:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> .3
+[01Dec2024 20:09:54.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> sowy si estuviste tiempos, no estaba :v
