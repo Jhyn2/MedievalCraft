@@ -133,7 +133,9 @@
       "minecraft:spider": "2024-11-16 03:58:19 +0000",
       "minecraft:creeper": "2024-11-16 03:57:18 +0000",
       "minecraft:slime": "2024-11-16 05:53:48 +0000",
+      "minecraft:zombified_piglin": "2024-12-02 03:05:02 +0000",
       "minecraft:witch": "2024-11-16 04:34:29 +0000",
+      "minecraft:wither_skeleton": "2024-12-02 02:54:07 +0000",
       "minecraft:husk": "2024-11-16 05:54:52 +0000",
       "minecraft:cave_spider": "2024-11-16 04:22:12 +0000",
       "minecraft:silverfish": "2024-11-16 04:40:38 +0000",
@@ -584,6 +586,36 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2024-12-02 01:30:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-02 02:53:22 +0000"
     },
     "done": true
   },
