@@ -50,6 +50,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-01 20:56:33 +0000",
+      "shrubland": "2024-12-02 00:21:47 +0000",
       "snowblossom_grove": "2024-12-01 22:58:23 +0000",
       "scrubland": "2024-11-20 03:28:20 +0000",
       "highland": "2024-11-16 04:16:16 +0000",
@@ -61,11 +62,14 @@
       "bog": "2024-11-16 04:34:55 +0000",
       "coniferous_forest": "2024-11-16 07:39:05 +0000",
       "spider_nest": "2024-11-16 04:21:36 +0000",
+      "seasonal_orchard": "2024-12-02 00:11:40 +0000",
+      "seasonal_forest": "2024-12-02 00:11:08 +0000",
       "dead_forest": "2024-12-01 20:55:25 +0000",
       "fir_clearing": "2024-11-29 04:06:54 +0000",
       "snowy_coniferous_forest": "2024-12-01 20:52:31 +0000",
       "snowy_fir_clearing": "2024-12-01 22:56:51 +0000",
       "tundra": "2024-12-01 23:01:04 +0000",
+      "crag": "2024-12-02 00:11:55 +0000",
       "snowy_maple_woods": "2024-12-01 20:56:13 +0000"
     },
     "done": false
@@ -114,7 +118,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-02 00:22:15 +0000",
       "minecraft:skeleton": "2024-11-16 03:38:47 +0000",
+      "minecraft:vindicator": "2024-12-02 00:25:38 +0000",
       "minecraft:spider": "2024-11-16 03:58:19 +0000",
       "minecraft:creeper": "2024-11-16 03:57:18 +0000",
       "minecraft:slime": "2024-11-16 05:53:48 +0000",
@@ -123,6 +129,7 @@
       "minecraft:cave_spider": "2024-11-16 04:22:12 +0000",
       "minecraft:silverfish": "2024-11-16 04:40:38 +0000",
       "minecraft:stray": "2024-11-16 05:56:00 +0000",
+      "minecraft:enderman": "2024-12-02 00:36:00 +0000",
       "minecraft:zombie": "2024-11-16 03:39:36 +0000",
       "minecraft:zombie_villager": "2024-11-16 05:23:17 +0000"
     },
@@ -496,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-02 00:22:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-01 23:28:56 +0000"
@@ -511,6 +524,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-01 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-02 00:14:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-02 00:14:20 +0000"
     },
     "done": true
   },

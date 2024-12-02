@@ -22,3 +22,50 @@
 [02Dec2024 00:11:14.125] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=496, y=9, z=1534}
 [02Dec2024 00:14:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Would you Like to Know More?]
 [02Dec2024 00:14:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Book of Monsters]
+[02Dec2024 00:19:11.226] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1148, y=-50, z=1582}
+[02Dec2024 00:19:11.226] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1148, y=-50, z=1583}
+[02Dec2024 00:19:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ugu
+[02Dec2024 00:20:12.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Qué no te cargaba Dongar?
+[02Dec2024 00:20:16.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> el abrir cofres
+[02Dec2024 00:21:04.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Dec2024 00:21:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sat Raro, tieens op y todo<--[HERE]
+[02Dec2024 00:21:12.331] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 00:21:12.332] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 00:21:12.332] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 00:21:12.333] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 00:21:12.334] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:12.334] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:12.334] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:33.866] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 00:21:33.871] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 00:21:33.871] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Dec2024 00:21:33.871] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 00:21:33.872] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:33.872] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:33.872] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 00:21:33.872] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 00:21:43.430] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 00:21:43.431] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 00:21:44.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ta raro, teines op y todo
+[02Dec2024 00:21:50.472] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[02Dec2024 00:21:50.473] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[02Dec2024 00:22:03.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> creo que ando lag, tmpc me deja guardar el drake
+[02Dec2024 00:22:15.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Voluntary Exile]
+[02Dec2024 00:26:14.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Marilou'/187545, l='ServerLevel[world]', x=-463.35, y=65.00, z=1099.18] died: Marilou was shot by Skeleton
+[02Dec2024 00:28:11.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cletus'/189412, l='ServerLevel[world]', x=1488.70, y=81.00, z=1423.50] died, message: 'Cletus was shot by Pillager'
+[02Dec2024 00:28:11.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cletus'/189412, l='ServerLevel[world]', x=1488.70, y=81.00, z=1423.50] died: Cletus was shot by Pillager
+[02Dec2024 00:30:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[02Dec2024 00:30:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was eviscerated by Archevoker's vexes
+[02Dec2024 00:31:28.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Cameron'/193122, l='ServerLevel[world]', x=-462.71, y=76.00, z=1115.87] died: Cameron was slain by Iron Golem
+[02Dec2024 00:32:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Dec2024 00:32:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sya fush fush magia<--[HERE]
+[02Dec2024 00:35:22.320] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[02Dec2024 00:35:22.321] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[02Dec2024 00:35:22.342] [Worker-Main-169/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[02Dec2024 00:35:22.347] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[02Dec2024 00:35:22.347] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[02Dec2024 00:35:22.347] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[02Dec2024 00:35:26.943] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[02Dec2024 00:35:27.160] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[02Dec2024 00:35:42.084] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 00:35:42.085] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
