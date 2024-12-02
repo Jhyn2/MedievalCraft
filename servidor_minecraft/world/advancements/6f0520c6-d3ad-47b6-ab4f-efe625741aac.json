@@ -50,6 +50,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-01 20:56:33 +0000",
+      "woodland": "2024-12-02 01:20:22 +0000",
       "shrubland": "2024-12-02 00:21:47 +0000",
       "snowblossom_grove": "2024-12-01 22:58:23 +0000",
       "scrubland": "2024-11-20 03:28:20 +0000",
@@ -58,10 +59,12 @@
       "wetland": "2024-11-16 04:16:05 +0000",
       "clover_patch": "2024-12-02 00:38:27 +0000",
       "cold_desert": "2024-11-16 03:32:47 +0000",
+      "old_growth_woodland": "2024-12-02 01:22:29 +0000",
       "maple_woods": "2024-11-16 04:16:27 +0000",
       "field": "2024-12-01 22:56:49 +0000",
       "orchard": "2024-12-02 00:40:05 +0000",
       "lavender_forest": "2024-12-02 00:40:25 +0000",
+      "mediterranean_forest": "2024-12-02 01:18:02 +0000",
       "bog": "2024-11-16 04:34:55 +0000",
       "coniferous_forest": "2024-11-16 07:39:05 +0000",
       "spider_nest": "2024-11-16 04:21:36 +0000",
@@ -220,6 +223,7 @@
       "minecraft:river": "2024-11-16 06:42:07 +0000",
       "minecraft:lukewarm_ocean": "2024-11-30 03:23:50 +0000",
       "minecraft:snowy_plains": "2024-12-01 22:54:29 +0000",
+      "minecraft:stony_shore": "2024-12-02 01:19:23 +0000",
       "minecraft:snowy_taiga": "2024-12-01 20:37:15 +0000",
       "minecraft:swamp": "2024-11-30 05:07:47 +0000",
       "minecraft:cold_ocean": "2024-11-29 04:06:26 +0000",
@@ -229,6 +233,7 @@
       "minecraft:snowy_beach": "2024-11-16 04:15:13 +0000",
       "minecraft:deep_dark": "2024-11-20 03:08:03 +0000",
       "minecraft:windswept_gravelly_hills": "2024-11-29 03:43:54 +0000",
+      "minecraft:savanna": "2024-12-02 01:17:58 +0000",
       "minecraft:plains": "2024-11-29 03:25:30 +0000"
     },
     "done": false
@@ -528,6 +533,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-02 01:30:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2024-12-02 00:42:03 +0000"
@@ -567,6 +578,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-01 21:03:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-02 01:25:43 +0000"
     },
     "done": true
   },

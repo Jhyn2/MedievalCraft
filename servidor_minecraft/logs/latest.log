@@ -510,3 +510,144 @@
 [02Dec2024 01:16:42.444] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
 [02Dec2024 01:16:42.444] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
 [02Dec2024 01:16:55.487] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1159, y=1, z=1680}
+[02Dec2024 01:17:58.614] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2208}
+[02Dec2024 01:17:58.621] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[02Dec2024 01:17:58.621] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[02Dec2024 01:18:00.718] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[02Dec2024 01:18:00.719] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[02Dec2024 01:18:02.130] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[02Dec2024 01:18:02.325] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[02Dec2024 01:18:02.415] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[02Dec2024 01:18:02.416] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[02Dec2024 01:18:02.416] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[02Dec2024 01:18:02.417] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[02Dec2024 01:18:02.418] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[02Dec2024 01:18:02.435] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[02Dec2024 01:18:02.479] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[02Dec2024 01:18:04.022] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[02Dec2024 01:18:04.023] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[02Dec2024 01:18:04.242] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[02Dec2024 01:18:27.606] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:18:27.607] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:18:27.607] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 01:18:27.607] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 01:18:59.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3138782186288154
+[02Dec2024 01:18:59.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.021153677599841
+[02Dec2024 01:18:59.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.7352655827176022
+[02Dec2024 01:18:59.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 2.462049574215555
+[02Dec2024 01:19:14.200] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:19:14.201] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:19:14.201] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 01:19:19.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.2702336186116554
+[02Dec2024 01:19:19.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.9646827545989254
+[02Dec2024 01:19:33.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.26376359566597785
+[02Dec2024 01:19:34.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.9019798695749159
+[02Dec2024 01:19:34.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.572210825777347
+[02Dec2024 01:19:34.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.2757746052088805
+[02Dec2024 01:19:34.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6202647245042954
+[02Dec2024 01:19:34.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6399557733643633
+[02Dec2024 01:19:34.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6527942964321483
+[02Dec2024 01:19:34.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.4176937317179181
+[02Dec2024 01:19:34.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6632530403935561
+[02Dec2024 01:19:34.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6652037204232784
+[02Dec2024 01:19:34.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.436743191069354
+[02Dec2024 01:19:34.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6668059909268322
+[02Dec2024 01:19:34.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6671048334155785
+[02Dec2024 01:19:34.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.439661551719837
+[02Dec2024 01:19:34.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6673298671555585
+[02Dec2024 01:19:34.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.4400391020142251
+[02Dec2024 01:19:34.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6674491712913095
+[02Dec2024 01:19:34.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6674662492619063
+[02Dec2024 01:19:34.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0809537707266372
+[02Dec2024 01:19:34.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.3022026994106
+[02Dec2024 01:19:52.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3088489561996539
+[02Dec2024 01:19:52.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0472957135325487
+[02Dec2024 01:19:52.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.7397968758887146
+[02Dec2024 01:19:57.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] o.o
+[02Dec2024 01:20:02.833] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 01:20:02.834] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02Dec2024 01:20:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Oa Señol
+[02Dec2024 01:20:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tienes comida gonda
+[02Dec2024 01:20:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo burned to death
+[02Dec2024 01:20:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -1690.500000, 115.500000, 2309.500000]
+[02Dec2024 01:21:17.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Grafia
+[02Dec2024 01:21:20.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> yr
+[02Dec2024 01:21:21.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[02Dec2024 01:21:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[02Dec2024 01:21:49.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] we el Gondar alta viciada lleva
+[02Dec2024 01:21:49.813] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2079, y=-10, z=2370}
+[02Dec2024 01:21:55.356] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2127, y=11, z=2433}
+[02Dec2024 01:21:55.356] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2128, y=11, z=2433}
+[02Dec2024 01:22:00.898] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2136, y=-9, z=2281}
+[02Dec2024 01:22:00.899] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2136, y=-9, z=2282}
+[02Dec2024 01:22:02.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Dec2024 01:22:09.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.28061186780587377
+[02Dec2024 01:22:09.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.9803381367109978
+[02Dec2024 01:22:09.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.3547477121655902
+[02Dec2024 01:22:13.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5051737023802616
+[02Dec2024 01:22:13.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.2557145671989929
+[02Dec2024 01:22:13.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.25091177334388703
+[02Dec2024 01:22:14.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.25347731699184806
+[02Dec2024 01:22:14.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.6445797521851091
+[02Dec2024 01:22:14.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3328460365769388
+[02Dec2024 01:22:14.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0916628058766946
+[02Dec2024 01:22:14.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.8508518070348146
+[02Dec2024 01:22:15.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3113687732334256
+[02Dec2024 01:22:16.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3161571605064637
+[02Dec2024 01:22:16.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8030823173203316
+[02Dec2024 01:22:16.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1792171721444902
+[02Dec2024 01:22:21.092] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2198, y=-31, z=2211}
+[02Dec2024 01:22:27.957] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2263, y=-21, z=2125}
+[02Dec2024 01:22:36.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.35232467095920583
+[02Dec2024 01:22:36.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0255716068122638
+[02Dec2024 01:22:36.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.7380383821200667
+[02Dec2024 01:22:36.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.726758053150661
+[02Dec2024 01:22:36.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.7368449243085706
+[02Dec2024 01:22:36.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.7422422079548596
+[02Dec2024 01:22:36.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.142254923992823
+[02Dec2024 01:23:07.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.3140172565017565
+[02Dec2024 01:23:07.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.8158253498640988
+[02Dec2024 01:23:10.779] [Worker-Main-171/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2448, y=3, z=2191}
+[02Dec2024 01:23:10.780] [Worker-Main-171/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2448, y=3, z=2191}
+[02Dec2024 01:23:10.780] [Worker-Main-171/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2448, y=3, z=2191}
+[02Dec2024 01:24:27.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.4414496403205703
+[02Dec2024 01:24:27.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.0
+[02Dec2024 01:24:27.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.1269082992625954
+[02Dec2024 01:24:27.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.2813230145911803
+[02Dec2024 01:25:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Wingin' It]
+[02Dec2024 01:25:47.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 0.5092801795317428
+[02Dec2024 01:25:47.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.082414962119401
+[02Dec2024 01:25:47.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved wrongly! 1.4218394626382178
+[02Dec2024 01:27:58.816] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2621, y=-7, z=2073}
+[02Dec2024 01:27:58.816] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2621, y=-7, z=2074}
+[02Dec2024 01:28:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Y si, sabe como le da vicio, cuantas horas jugo?
+[02Dec2024 01:28:52.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 7 horitas de chill
+[02Dec2024 01:29:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 7HORAS?!!
+[02Dec2024 01:29:24.938] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2400, y=14, z=2554}
+[02Dec2024 01:30:09.075] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2812, y=-41, z=2437}
+[02Dec2024 01:30:09.076] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2812, y=-41, z=2438}
+[02Dec2024 01:31:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[02Dec2024 01:32:40.583] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[02Dec2024 01:32:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was slain by Chort
+[02Dec2024 01:33:05.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:41355] logged in with entity id 232845 at (-413.2668247790807, 85.0, 1092.634806979447)
+[02Dec2024 01:33:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[02Dec2024 01:33:06.012] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[02Dec2024 01:34:38.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Arioo pepee
+[02Dec2024 01:34:42.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Adioos Pepitooo
+[02Dec2024 01:35:09.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Pepe el PICOOO
+[02Dec2024 01:36:23.011] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[02Dec2024 01:36:24.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[02Dec2024 01:36:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[02Dec2024 01:36:31.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:55057] logged in with entity id 233475 at (-396.4834248153386, 96.0, 1162.6239221220494)
+[02Dec2024 01:36:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[02Dec2024 01:36:32.064] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[02Dec2024 01:36:47.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[02Dec2024 01:36:47.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[02Dec2024 01:37:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> como que algo no me cuadra
+[02Dec2024 01:37:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> respetaste el tamaño?
+[02Dec2024 01:37:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Eso es lo que estoy viendo
