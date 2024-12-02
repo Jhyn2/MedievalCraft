@@ -3095,3 +3095,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [02Dec2024 06:57:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
 [02Dec2024 06:57:45.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
 [02Dec2024 06:57:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[02Dec2024 07:06:59.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[02Dec2024 07:07:56.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
