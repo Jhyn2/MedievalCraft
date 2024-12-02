@@ -941,3 +941,66 @@
 [02Dec2024 03:08:29.044] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
 [02Dec2024 03:08:29.044] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [02Dec2024 03:08:51.204] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Dec2024 03:09:18.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Dec2024 03:09:19.092] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:09:19.096] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:09:19.096] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:09:19.097] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:09:19.098] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:09:23.967] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 03:09:23.968] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Dec2024 03:09:23.968] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 03:09:23.969] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 03:09:23.970] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 03:09:23.970] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 03:09:23.977] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 03:09:23.977] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 03:09:23.988] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 03:09:23.988] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 03:09:38.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4788ms or 95 ticks behind
+[02Dec2024 03:10:01.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8316ms or 166 ticks behind
+[02Dec2024 03:10:19.688] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=246, y=69, z=12}
+[02Dec2024 03:10:19.691] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=243, y=70, z=12}
+[02Dec2024 03:10:19.692] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=246, y=70, z=6}
+[02Dec2024 03:10:19.746] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=223, y=74, z=9}
+[02Dec2024 03:10:19.747] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=223, y=74, z=8}
+[02Dec2024 03:10:19.747] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=74, z=8}
+[02Dec2024 03:10:19.747] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=227, y=74, z=9}
+[02Dec2024 03:10:19.747] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=74, z=10}
+[02Dec2024 03:10:19.748] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=229, y=76, z=4}
+[02Dec2024 03:10:26.270] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=227, y=74, z=-8}
+[02Dec2024 03:10:26.271] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=70, z=-7}
+[02Dec2024 03:10:26.272] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=227, y=68, z=-8}
+[02Dec2024 03:10:26.273] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=232, y=74, z=0}
+[02Dec2024 03:10:47.790] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 03:10:47.795] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 03:10:47.796] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 03:10:47.796] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 03:10:51.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/282854, l='ServerLevel[world]', x=1747.38, y=77.00, z=6063.52] died: The Killer Bunny was slain by Snow Leopard
+[02Dec2024 03:11:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> COn qué?
+[02Dec2024 03:11:40.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[02Dec2024 03:11:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[02Dec2024 03:12:46.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dante'/283466, l='ServerLevel[world]', x=1978.50, y=71.00, z=5898.49] died: Dante discovered the floor was lava
+[02Dec2024 03:13:30.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[02Dec2024 03:13:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> El niño quiere terminar su jaus
+[02Dec2024 03:13:48.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Suellen'/283467, l='ServerLevel[world]', x=1978.50, y=71.00, z=5898.50] died: Suellen discovered the floor was lava
+[02Dec2024 03:14:37.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Necesitamos mas pizarra
+[02Dec2024 03:14:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Los allays?
+[02Dec2024 03:15:00.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No, pero los puedes tener en tu base
+[02Dec2024 03:15:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> con cuerda
+[02Dec2024 03:15:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> O los puedes cargar y te haces tp
+[02Dec2024 03:15:20.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Billie'/283468, l='ServerLevel[world]', x=1979.30, y=71.00, z=5899.29] died: Billie discovered the floor was lava
+[02Dec2024 03:15:51.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[02Dec2024 03:15:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> weee
+[02Dec2024 03:16:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se hubiese ido con PEpi xD
+[02Dec2024 03:16:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1915.500000, 75.500000, 5909.500000]
+[02Dec2024 03:16:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Gonda
+[02Dec2024 03:16:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[02Dec2024 03:17:29.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Si quieres que termine la jaus poe
+[02Dec2024 03:18:16.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Paulina'/286918, l='ServerLevel[world]', x=1979.50, y=71.00, z=5899.49] died: Paulina discovered the floor was lava
+[02Dec2024 03:18:24.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jamey'/286898, l='ServerLevel[world]', x=1978.50, y=71.00, z=5898.50] died: Jamey discovered the floor was lava
+[02Dec2024 03:18:36.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pasty'/286886, l='ServerLevel[world]', x=1978.51, y=71.00, z=5898.51] died: Pasty discovered the floor was lava
+[02Dec2024 03:19:31.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Hai'/286900, l='ServerLevel[world]', x=1978.51, y=71.00, z=5898.52] died: Hai discovered the floor was lava
+[02Dec2024 03:19:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Sip
+[02Dec2024 03:19:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pero yo lo busco yo ntp
+[02Dec2024 03:20:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> sip
