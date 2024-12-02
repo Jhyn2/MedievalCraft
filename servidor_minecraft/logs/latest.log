@@ -3066,3 +3066,32 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [02Dec2024 06:47:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es que iba a copiar el revive xD
 [02Dec2024 06:47:30.549] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 343 0 -184
 [02Dec2024 06:47:31.541] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 135 0 -190
+[02Dec2024 06:48:29.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02Dec2024 06:49:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Hidden in the Depths]
+[02Dec2024 06:49:37.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pal gonda
+[02Dec2024 06:49:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si quire pa gondar, yo no quiero hacer mucho de mago
+[02Dec2024 06:50:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 122.500000, 84.500000, 150.500000]
+[02Dec2024 06:50:22.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[02Dec2024 06:50:37.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -45.500000, 82.500000, 134.500000]
+[02Dec2024 06:51:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Hidden in the Depths]
+[02Dec2024 06:51:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [No Longer Short-Staffed]
+[02Dec2024 06:51:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Quite the Walking Stick]
+[02Dec2024 06:52:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Hidden in the Depths]
+[02Dec2024 06:52:11.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> va, se lo guardo
+[02Dec2024 06:52:21.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Grafias pepe
+[02Dec2024 06:52:21.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [No Longer Short-Staffed]
+[02Dec2024 06:52:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Quite the Walking Stick]
+[02Dec2024 06:55:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No se como tapar ahi
+[02Dec2024 06:55:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> o si dejarlo asi
+[02Dec2024 06:55:45.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se ven bonitas las armaduras
+[02Dec2024 06:55:48.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Me gustó
+[02Dec2024 06:56:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> grafias
+[02Dec2024 06:56:07.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[02Dec2024 06:57:05.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Bueno, yo me retiro, pasen feli noshe <3
+[02Dec2024 06:57:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No se duerman tarde
+[02Dec2024 06:57:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Adiooo Pepiii
+[02Dec2024 06:57:17.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi, ya es tarde
+[02Dec2024 06:57:30.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[02Dec2024 06:57:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[02Dec2024 06:57:45.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[02Dec2024 06:57:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
