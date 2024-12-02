@@ -1368,3 +1368,88 @@
 [02Dec2024 05:33:47.796] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=27, z=20}
 [02Dec2024 05:33:47.832] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=25, z=13}
 [02Dec2024 05:33:50.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[02Dec2024 05:34:11.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5765ms or 115 ticks behind
+[02Dec2024 05:35:10.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[02Dec2024 05:35:54.568] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3111, y=-9, z=770}
+[02Dec2024 05:36:21.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Dec2024 05:36:24.692] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3330, y=-14, z=848}
+[02Dec2024 05:36:24.732] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:36:24.733] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:36:38.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[02Dec2024 05:36:43.483] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3271, y=-15, z=655}
+[02Dec2024 05:37:01.885] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3455, y=25, z=543}
+[02Dec2024 05:37:01.928] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3457, y=25, z=541}
+[02Dec2024 05:37:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No pude, ahi lo consigo luego
+[02Dec2024 05:37:10.778] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3534, y=35, z=470}
+[02Dec2024 05:37:10.778] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3536, y=35, z=470}
+[02Dec2024 05:37:18.148] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3363, y=26, z=399}
+[02Dec2024 05:37:28.080] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02Dec2024 05:37:28.080] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02Dec2024 05:37:28.081] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02Dec2024 05:37:28.081] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02Dec2024 05:37:38.893] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3552, y=-27, z=229}
+[02Dec2024 05:37:38.942] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3555, y=-27, z=230}
+[02Dec2024 05:37:42.765] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 05:37:42.765] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 05:37:47.196] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[02Dec2024 05:37:47.196] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:37:47.197] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:37:50.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02Dec2024 05:37:55.415] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:37:55.416] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:37:55.416] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 05:38:08.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[02Dec2024 05:38:09.337] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 05:38:09.338] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 05:38:09.338] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 05:38:09.338] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Dec2024 05:38:09.338] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 05:38:09.338] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 05:38:26.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[02Dec2024 05:38:41.322] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 05:38:41.323] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 05:38:41.323] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 05:38:41.323] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Dec2024 05:38:41.323] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 05:38:41.323] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 05:38:41.324] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 05:38:41.324] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 05:38:43.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
+[02Dec2024 05:39:01.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3028ms or 60 ticks behind
+[02Dec2024 05:39:24.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 05:41:41.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 05:41:46.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.033717369610258,0.0,6.764899978240635
+[02Dec2024 05:41:46.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.171040666704357,0.0,7.605839242674051
+[02Dec2024 05:41:46.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.30951230464916,0.0,8.446116685455593
+[02Dec2024 05:41:46.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.448996779224672,0.0,9.285810401540118
+[02Dec2024 05:41:46.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -13.589374575708007,0.0,10.12498927067793
+[02Dec2024 05:41:46.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -14.730540282114362,0.0,10.963714044808683
+[02Dec2024 05:41:46.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.872400925072725,0.0,11.80203830714322
+[02Dec2024 05:41:46.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.014874502069688,0.0,12.64000931807351
+[02Dec2024 05:41:46.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -18.157888686889237,0.0,13.47766876126525
+[02Dec2024 05:41:46.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -19.301379687808094,0.0,14.315053401711623
+[02Dec2024 05:41:46.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -20.44529124052633,0.0,15.15219566613655
+[02Dec2024 05:41:46.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -21.58957371993165,0.0,15.989124154910542
+[02Dec2024 05:41:46.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -14.836487310405573,0.0,10.902653744437998
+[02Dec2024 05:41:46.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -15.981385499921089,0.0,11.739227381878436
+[02Dec2024 05:41:46.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -17.126538192982025,0.0,12.575654341652125
+[02Dec2024 05:41:46.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Nombre si ya hicimos las casas xD
+[02Dec2024 05:41:57.362] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[02Dec2024 05:41:57.362] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:41:57.362] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:41:57.362] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 05:41:57.362] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 05:42:00.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[02Dec2024 05:42:26.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Dec2024 05:42:28.990] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 05:42:28.990] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 05:42:28.990] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 05:42:28.990] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 05:42:28.991] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 05:42:43.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[02Dec2024 05:43:01.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[02Dec2024 05:43:21.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5187ms or 103 ticks behind
+[02Dec2024 05:43:38.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[02Dec2024 05:43:56.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[02Dec2024 05:44:02.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 05:44:15.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
