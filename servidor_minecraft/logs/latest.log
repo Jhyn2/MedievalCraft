@@ -3244,3 +3244,18 @@ say Oh, the misery
 [02Dec2024 18:34:48.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
 [02Dec2024 19:08:03.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] uy
 [02Dec2024 19:08:32.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hay alguien?
+[02Dec2024 19:14:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Buenos puessay bueno, apagaré el server tons
+[02Dec2024 19:14:40.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[02Dec2024 19:16:40.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 19:16:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 19:16:40.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 19:16:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 19:16:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 19:16:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 19:16:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 19:16:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Dec2024 19:16:40.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 19:16:40.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 19:16:40.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 19:16:40.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Dec2024 19:16:40.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
