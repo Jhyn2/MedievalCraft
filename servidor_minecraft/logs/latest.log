@@ -3013,3 +3013,173 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [02Dec2024 17:04:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
 [02Dec2024 17:04:23.911] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
 [02Dec2024 17:04:25.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[02Dec2024 17:12:26.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Oh, the misery
+say Oh, the misery
+[02Dec2024 17:13:27.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> Oh, the misery
+[02Dec2024 17:15:13.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> Taba en lol, perdón JAJAJA
+[02Dec2024 17:23:59.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -6645.500000, 116.500000, -2543.500000]
+[02Dec2024 17:25:35.130] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-6744, y=8, z=-2097}
+[02Dec2024 17:25:35.131] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-6744, y=8, z=-2096}
+[02Dec2024 17:25:36.805] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-6641, y=-48, z=-2222}
+[02Dec2024 17:25:37.590] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-6633, y=-43, z=-2158}
+[02Dec2024 17:25:51.273] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=200, y=63, z=-1}
+[02Dec2024 17:26:01.905] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 17:26:01.906] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Dec2024 17:26:01.907] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 17:26:01.912] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 17:26:01.914] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 17:26:01.916] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 17:26:01.917] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 17:26:17.840] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02Dec2024 17:26:17.841] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02Dec2024 17:26:17.841] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02Dec2024 17:26:17.847] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02Dec2024 17:26:28.236] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=68, z=8}
+[02Dec2024 17:26:48.561] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 17:26:48.562] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02Dec2024 17:27:51.436] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:27:54.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:29:04.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.1243059010139405,3.8714027106619824,9.509702611218927
+[02Dec2024 17:29:04.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.313123979476586,4.089367322870444,10.741042353417924
+[02Dec2024 17:29:04.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.483564877678873,4.28161211083831,11.994478482689829
+[02Dec2024 17:29:04.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.6349721031219815,4.451172013825968,13.267445653955292
+[02Dec2024 17:29:04.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.7692384641432,4.600723848261083,14.557641114985927
+[02Dec2024 17:29:04.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.8883865827447153,4.732628566232847,15.863031927589418
+[02Dec2024 17:29:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -2.9942004115318923,4.848968527483947,17.18182504027982
+[02Dec2024 17:29:04.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.0882533967023846,4.951580373307422,18.512438981646937
+[02Dec2024 17:29:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.1719333178034503,5.042084021323717,19.853478893907322
+[02Dec2024 17:29:04.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.2464641963942995,5.121908238874099,21.203714512495026
+[02Dec2024 17:29:04.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.312925619492489,5.192313198753524,22.56206074406373
+[02Dec2024 17:29:04.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.372269782845251,5.254410373367179,23.927560536281817
+[02Dec2024 17:29:04.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.4253365231024873,5.309180081376425,25.29936976899262
+[02Dec2024 17:29:04.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.472866576189517,5.357486963840586,26.676743928217547
+[02Dec2024 17:29:04.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.515513271193413,5.40009363417397,28.05902635262828
+[02Dec2024 17:29:04.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.553852844366702,5.43767271740802,29.445637866932884
+[02Dec2024 17:29:04.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.588393536086187,5.470817468820442,30.836067638524128
+[02Dec2024 17:29:04.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.619583614363364,5.50005113956621,32.2298651130418
+[02Dec2024 17:29:04.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.647818451583589,5.5258352371639745,33.62663290154069
+[02Dec2024 17:29:04.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.673446766192683,5.548576811245198,35.026020506971236
+[02Dec2024 17:29:04.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.6967761278583566,5.568634879584835,36.42771879093516
+[02Dec2024 17:29:04.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.7178209655512546,5.5863260958604,37.83145600702983
+[02Dec2024 17:29:04.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.736433473866782,5.601929748615447,39.2369922080552
+[02Dec2024 17:29:04.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.752643814635121,5.6156921703453975,40.644114993325275
+[02Dec2024 17:29:04.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.7665588606387246,5.627830626311209,42.052636832694134
+[02Dec2024 17:29:04.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.839425692176519,5.638536744473058,43.44744674254207
+[02Dec2024 17:29:04.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -3.9642879985558466,5.647979540691807,44.830162730552274
+[02Dec2024 17:29:04.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.117693394421622,5.536720302956084,46.15863115188813
+[02Dec2024 17:29:04.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.296273795213892,5.319001871272505,47.439253219417424
+[02Dec2024 17:29:04.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.4970585503515395,5.007386430526935,48.67767480288967
+[02Dec2024 17:29:04.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.717260426647954,4.612953827788672,49.8789418162055
+[02Dec2024 17:29:04.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -4.951499701697685,4.145476488172861,51.04861017841495
+[02Dec2024 17:29:04.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.1873047162689545,3.613573690631057,52.19375622675443
+[02Dec2024 17:29:04.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.421647029756059,3.144435423199184,53.36573475154319
+[02Dec2024 17:29:04.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.651370999142273,2.730655471324269,54.56188627284382
+[02Dec2024 17:29:04.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -5.877192915745582,2.3657015537705917,55.77933399404037
+[02Dec2024 17:29:04.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.100071477185338,2.0438121984882542,57.01549299791304
+[02Dec2024 17:29:04.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.3203539993710365,1.7599057871292274,58.26815535310652
+[02Dec2024 17:29:04.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.538346814933902,1.5095003323105658,59.53537366416458
+[02Dec2024 17:29:04.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.7543201092557865,1.2886427211605138,60.815430328295406
+[02Dec2024 17:29:04.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -6.968512185843792,1.0938463081261602,62.106810419836165
+[02Dec2024 17:29:04.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.181133228389626,0.9220358718298627,63.40817777435268
+[02Dec2024 17:29:04.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.392368618910041,0.7704990670165301,64.71835389481384
+[02Dec2024 17:29:04.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.602381864345261,0.6368436051711654,66.03629934683795
+[02Dec2024 17:29:04.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -7.8113171778140895,0.5189594878235511,67.36109734930096
+[02Dec2024 17:29:04.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.019301755289234,0.4149856963229581,68.69193930125084
+[02Dec2024 17:29:04.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.226447783617914,0.32328081221943705,70.02811201664827
+[02Dec2024 17:29:04.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.432854211599079,0.24239710444012985,71.36898646540612
+[02Dec2024 17:29:04.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.638608312074211,0.17105767417878326,72.7140078429884
+[02Dec2024 17:29:04.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -8.84378705968902,0.10813629668827218,74.06268681179336
+[02Dec2024 17:29:04.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.048458346080224,0.05263964174164926,75.41459177605702
+[02Dec2024 17:29:04.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.252682051673219,0.0036915920787237155,76.76934206831493
+[02Dec2024 17:29:04.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.456510991001778,-0.039480587723971894,78.12660193986403
+[02Dec2024 17:29:04.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.66106534548453,-0.0775584503099509,79.48591490746276
+[02Dec2024 17:29:04.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.867005731659447,-0.11114312511078595,80.84692296219418
+[02Dec2024 17:29:04.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.07491427293553,-0.14076480828512672,82.20930690720388
+[02Dec2024 17:29:04.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.277705421214705,-0.28647891684555304,83.5265060827146
+[02Dec2024 17:29:04.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.476636478966611,-0.5345865445965217,84.8037406154931
+[02Dec2024 17:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.673047943419078,-0.8730052562735295,86.0455690075778
+[02Dec2024 17:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -10.86805465913676,-1.291078343973325,87.25601762074439
+[02Dec2024 17:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.06182238646943,-1.7794065913251984,88.43878926890466
+[02Dec2024 17:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.254497326047385,-2.3296998894902146,89.59714983392996
+[02Dec2024 17:29:04.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.446274666143836,-2.934646362472421,90.73396728478701
+[02Dec2024 17:29:04.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.637492103483964,-3.5877969356433965,91.85173950516037
+[02Dec2024 17:29:04.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.828447397515447,-4.2834635251808635,92.9526691674223
+[02Dec2024 17:29:04.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.019347945278241,-5.0166292411535665,94.03870934608176
+[02Dec2024 17:29:04.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.210200206832269,-5.782869186642159,95.11161700020375
+[02Dec2024 17:29:04.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.40107604068271,-6.5782806025637655,96.17292881670028
+[02Dec2024 17:29:04.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.592082916306026,-7.399421255407276,97.22399143561461
+[02Dec2024 17:29:04.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -12.783205370771611,-8.243255095215915,98.26601426226125
+[02Dec2024 17:29:04.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[02Dec2024 17:29:04.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -11.055994144317083,-12.731381625922609,90.99677450662648
+[02Dec2024 17:29:36.446] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 17:29:36.450] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 17:29:44.237] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-10}
+[02Dec2024 17:29:44.237] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-10}
+[02Dec2024 17:29:44.383] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-12}
+[02Dec2024 17:29:44.384] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-14}
+[02Dec2024 17:29:44.384] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-14}
+[02Dec2024 17:29:44.384] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-12}
+[02Dec2024 17:30:00.492] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 17:30:00.493] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 17:30:04.155] [Worker-Main-10/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[02Dec2024 17:30:04.166] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[02Dec2024 17:30:04.167] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[02Dec2024 17:30:04.168] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[02Dec2024 17:30:04.555] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[02Dec2024 17:30:04.555] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[02Dec2024 17:30:04.576] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[02Dec2024 17:30:04.576] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[02Dec2024 17:30:06.155] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[02Dec2024 17:30:06.276] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[02Dec2024 17:30:08.564] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 17:30:52.506] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Dec2024 17:30:52.508] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Dec2024 17:30:52.508] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Dec2024 17:30:52.509] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 17:30:52.509] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 17:30:52.510] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 17:30:52.510] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Dec2024 17:31:07.347] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02Dec2024 17:31:07.348] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02Dec2024 17:31:07.348] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02Dec2024 17:31:07.349] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02Dec2024 17:31:11.118] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[02Dec2024 17:31:15.623] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[02Dec2024 17:31:15.624] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[02Dec2024 17:31:20.109] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[02Dec2024 17:31:20.109] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[02Dec2024 17:31:20.110] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[02Dec2024 17:31:20.129] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[02Dec2024 17:31:20.130] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[02Dec2024 17:31:31.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.106.18.246:55369] logged in with entity id 14032 at (-386.4276095939589, 84.0, 1160.684429726649)
+[02Dec2024 17:31:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[02Dec2024 17:31:31.126] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[02Dec2024 17:31:40.788] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 17:31:40.789] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02Dec2024 17:31:50.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/13766, l='ServerLevel[world]', x=-6426.75, y=80.00, z=-2962.47] died: The Killer Bunny was slain by Snow Leopard
+[02Dec2024 17:32:09.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Caroline'/15192, l='ServerLevel[world]', x=-6191.63, y=64.00, z=-2983.28] died, message: 'Caroline suffocated in a wall'
+[02Dec2024 17:32:09.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Caroline'/15192, l='ServerLevel[world]', x=-6191.63, y=64.00, z=-2983.28] died: Caroline suffocated in a wall
+[02Dec2024 17:32:38.935] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=169, y=73, z=6}
+[02Dec2024 17:32:47.675] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:47.676] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:47.676] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:47.677] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 17:32:47.677] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 17:32:47.677] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 17:32:48.182] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:48.182] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:48.182] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 17:32:48.182] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 17:35:30.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/17438, l='ServerLevel[world]', x=-6199.68, y=79.13, z=-3210.67] died: The Killer Bunny was slain by Fox
+[02Dec2024 17:36:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Estem voa a salir en un rato, puede que se  cierre xD
+[02Dec2024 17:36:12.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[02Dec2024 17:36:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Espero volver rápido pero ajá ya sabes
+[02Dec2024 17:36:26.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> n cuánto tiempo se podría cerrar?
+[02Dec2024 17:36:44.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como en una hora creo
+[02Dec2024 17:36:51.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ah normal toncs, no hay apuro
+[02Dec2024 17:37:03.322] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Dec2024 17:37:05.529] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Dec2024 17:37:05.877] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Dec2024 17:37:21.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[02Dec2024 17:37:30.570] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 17:37:30.570] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
