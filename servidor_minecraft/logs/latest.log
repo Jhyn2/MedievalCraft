@@ -1040,3 +1040,76 @@
 [02Dec2024 03:39:23.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> O sea a mí nunca me ha funcado con flechas normales
 [02Dec2024 03:40:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1889.500000, 68.500000, 5758.500000]
 [02Dec2024 03:40:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1815.500000, 78.500000, 6295.500000]
+[02Dec2024 03:40:57.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[02Dec2024 03:41:21.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.818848630962748,0.0,-2.97930923138847
+[02Dec2024 03:41:27.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14840ms or 296 ticks behind
+[02Dec2024 03:41:32.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 8.272820271304681,0.0,7.11196409859167
+[02Dec2024 03:41:32.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 9.418473808521867,0.0,7.846546858073452
+[02Dec2024 03:41:32.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 10.580201557016835,0.0,8.558812170350393
+[02Dec2024 03:41:32.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 11.75610675985854,0.0,9.251393494192598
+[02Dec2024 03:41:32.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 12.944516477434036,0.0,9.926613540235849
+[02Dec2024 03:41:32.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 14.143955177004955,0.0,10.586520939259572
+[02Dec2024 03:41:32.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 15.35312143869578,0.0,11.23292258361289
+[02Dec2024 03:41:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 16.570867410176334,0.0,11.867412152346333
+[02Dec2024 03:41:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 17.79637743043031,0.0,12.490930905268215
+[02Dec2024 03:41:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 19.028894154133013,0.0,13.104395660312548
+[02Dec2024 03:41:32.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 20.267784956827427,0.0,13.708527334249993
+[02Dec2024 03:41:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 21.476252210828534,0.0,14.353402114097662
+[02Dec2024 03:41:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 22.658111219700913,0.0,15.033979009124778
+[02Dec2024 03:41:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 23.816619594355643,0.0,15.745922780320143
+[02Dec2024 03:41:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 24.954757314285644,0.0,16.48529814070571
+[02Dec2024 03:41:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 26.074928116748424,0.0,17.24886816275648
+[02Dec2024 03:41:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 27.179252098005236,0.0,18.033777876396925
+[02Dec2024 03:41:33.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 21.12426112687126,0.0,12.485375307952381
+[02Dec2024 03:41:33.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 22.202956195823845,0.0,13.304998267080919
+[02Dec2024 03:41:33.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 23.154365246640054,0.0,14.027905717032809
+[02Dec2024 03:42:04.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22147ms or 442 ticks behind
+[02Dec2024 03:42:29.687] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Dec2024 03:42:29.687] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02Dec2024 03:42:35.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! -9.977798524151012,0.5839249185284245,3.6616578419452708
+[02Dec2024 03:42:42.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23019ms or 460 ticks behind
+[02Dec2024 03:42:45.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.4689194801221674,0.0,9.983911702523983
+[02Dec2024 03:42:45.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.6687917727301738,0.0,11.271944110573713
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.857145865315033,0.0,12.568634036580079
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.0353409054794156,0.0,13.872959893423285
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.204575661408853,0.0,15.184020641265306
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.365830437138129,0.0,16.501027324277857
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.5200468703305887,0.0,17.823278322110127
+[02Dec2024 03:42:45.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.665836491803475,0.0,19.150305022159955
+[02Dec2024 03:42:46.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.542511996590747,0.0,11.776093787980244
+[02Dec2024 03:42:46.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.6589960798089578,0.0,13.111559573498198
+[02Dec2024 03:42:46.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.75066964791813,0.0,14.450157812414545
+[02Dec2024 03:42:46.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.8150438476707222,0.0,15.791054004757825
+[02Dec2024 03:42:46.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.8550020329080326,0.0,17.133941876841163
+[02Dec2024 03:43:05.917] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:43:05.917] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:43:05.917] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:43:05.918] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:43:05.918] [Worker-Main-173/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:43:21.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23412ms or 468 ticks behind
+[02Dec2024 03:43:35.060] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 03:43:35.062] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 03:43:35.063] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 03:43:55.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19699ms or 393 ticks behind
+[02Dec2024 03:44:13.702] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=71, y=63, z=0}
+[02Dec2024 03:44:20.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9705ms or 194 ticks behind
+[02Dec2024 03:44:26.521] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:44:26.522] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:44:26.522] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:44:26.522] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:44:39.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4510ms or 90 ticks behind
+[02Dec2024 03:45:00.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02Dec2024 03:45:19.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[02Dec2024 03:45:42.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7126ms or 142 ticks behind
+[02Dec2024 03:47:25.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[02Dec2024 03:47:44.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[02Dec2024 03:48:02.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[02Dec2024 03:48:19.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[02Dec2024 03:48:42.890] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=276, y=70, z=11}
+[02Dec2024 03:48:42.890] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=272, y=70, z=7}
+[02Dec2024 03:48:43.667] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=274, y=70, z=-7}
+[02Dec2024 03:48:43.668] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=276, y=70, z=5}
+[02Dec2024 03:48:55.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[02Dec2024 03:49:04.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 03:49:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Necesitamos calcita:c
+[02Dec2024 03:50:34.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> va
