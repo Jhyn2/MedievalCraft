@@ -3238,3 +3238,7 @@ say Oh, the misery
 [02Dec2024 18:27:28.719] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
 [02Dec2024 18:28:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
 [02Dec2024 18:29:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 18:32:13.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[02Dec2024 18:32:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[02Dec2024 18:34:48.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[02Dec2024 18:34:48.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
