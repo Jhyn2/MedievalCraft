@@ -1540,3 +1540,21 @@
 [02Dec2024 05:56:21.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
 [02Dec2024 05:56:25.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
 [02Dec2024 06:00:08.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Dec2024 06:05:17.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Wallace'/409768, l='ServerLevel[world]', x=-5766.31, y=126.00, z=-1913.48] died: Wallace was slain by Tank
+[02Dec2024 06:05:33.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Shela'/409771, l='ServerLevel[world]', x=-5756.02, y=126.00, z=-1905.67] died: Shela was shot by Skeleton
+[02Dec2024 06:06:15.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Valene'/409767, l='ServerLevel[world]', x=-5770.53, y=125.94, z=-1919.91] died: Valene was slain by Wither Skeleton
+[02Dec2024 06:06:33.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No x D
+[02Dec2024 06:06:56.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[02Dec2024 06:07:04.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> como?
+[02Dec2024 06:07:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nono
+[02Dec2024 06:07:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Uhh ta feo
+[02Dec2024 06:07:13.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> como dijiste?
+[02Dec2024 06:07:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OK
+[02Dec2024 06:07:52.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 06:08:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> we
+[02Dec2024 06:08:35.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Moriah'/409770, l='ServerLevel[world]', x=-5764.70, y=125.00, z=-1917.52] died: Moriah was slain by Wither Skeleton
+[02Dec2024 06:08:49.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cassey'/409993, l='ServerLevel[world]', x=-5590.66, y=62.57, z=-1822.48] died, message: 'Cassey was slain by Sea Serpent'
+[02Dec2024 06:08:49.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cassey'/409993, l='ServerLevel[world]', x=-5590.66, y=62.57, z=-1822.48] died: Cassey was slain by Sea Serpent
+[02Dec2024 06:09:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -5736.500000, 286.500000, -1926.500000]
+[02Dec2024 06:10:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[02Dec2024 06:13:44.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
