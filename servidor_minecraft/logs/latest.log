@@ -469,3 +469,44 @@
 [02Dec2024 01:00:03.501] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
 [02Dec2024 01:06:19.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ahi esta tu sombrero
 [02Dec2024 01:06:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ese lado va a ser para matarlos
+[02Dec2024 01:07:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] t_t
+[02Dec2024 01:07:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ui el server habló
+[02Dec2024 01:08:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
+[02Dec2024 01:08:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> escuche dragon
+[02Dec2024 01:08:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> JAJAJAJAJA
+[02Dec2024 01:08:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> que susto más inocente JAJAJAJA
+[02Dec2024 01:09:08.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ahhh azulita
+[02Dec2024 01:09:24.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> El menos obsesionado con gragones
+[02Dec2024 01:09:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> shhh
+[02Dec2024 01:09:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 01:09:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> con el de hielo soy feliz
+[02Dec2024 01:09:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> eu, alguien tiene pico de toque de seda?
+[02Dec2024 01:10:15.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> dijiste que con eso se puede conservar la estatua de piedra, no?
+[02Dec2024 01:10:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No, no tengo:c
+[02Dec2024 01:10:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[02Dec2024 01:12:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ya que estas ahi
+[02Dec2024 01:12:37.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[02Dec2024 01:12:45.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> we
+[02Dec2024 01:12:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pero antes de subirlos quitales
+[02Dec2024 01:13:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> JAJAJAJA
+[02Dec2024 01:13:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ptmre me caí por reírme
+[02Dec2024 01:13:09.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> nono, era a pepi
+[02Dec2024 01:13:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> va, eso messi
+[02Dec2024 01:13:19.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> A mi me esta regañando
+[02Dec2024 01:13:43.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> casi
+[02Dec2024 01:13:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OYEEEEEEEEEE
+[02Dec2024 01:14:09.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! -10.317293185589051,-1.7725465413369932,1.6610177926261258
+[02Dec2024 01:14:09.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! -11.026167119228603,-1.7725465413369932,1.4286865533347282
+[02Dec2024 01:14:09.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Pepeowo) moved too quickly! -11.75537044436669,-1.7725465413369932,1.2401875812536218
+[02Dec2024 01:14:13.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1270, y=-24, z=1413}
+[02Dec2024 01:14:50.517] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1243, y=25, z=1479}
+[02Dec2024 01:15:05.847] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[02Dec2024 01:15:05.849] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:15:05.852] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 01:15:05.854] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 01:15:05.856] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 01:16:42.443] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02Dec2024 01:16:42.443] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02Dec2024 01:16:42.444] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02Dec2024 01:16:42.444] [Worker-Main-171/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02Dec2024 01:16:55.487] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1159, y=1, z=1680}
