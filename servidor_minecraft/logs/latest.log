@@ -3217,3 +3217,24 @@ say Oh, the misery
 [02Dec2024 18:12:59.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
 [02Dec2024 18:15:26.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no
 [02Dec2024 18:17:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 18:19:56.945] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:19:56.946] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:19:56.946] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:19:56.946] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 18:19:56.946] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 18:19:56.946] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 18:24:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[02Dec2024 18:24:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si
+[02Dec2024 18:26:19.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Fred'/40623, l='ServerLevel[world]', x=-6974.42, y=59.00, z=-3014.64] died: Fred froze to death
+[02Dec2024 18:26:19.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Haley'/40618, l='ServerLevel[world]', x=-6976.31, y=58.00, z=-3014.30] died: Haley froze to death
+[02Dec2024 18:26:25.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Melinda'/40622, l='ServerLevel[world]', x=-6975.46, y=58.00, z=-3015.21] died: Melinda froze to death
+[02Dec2024 18:26:31.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tessie'/40617, l='ServerLevel[world]', x=-6975.65, y=58.00, z=-3014.17] died: Tessie froze to death
+[02Dec2024 18:26:38.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jarrett'/40614, l='ServerLevel[world]', x=-6975.02, y=59.00, z=-3014.55] died: Jarrett froze to death
+[02Dec2024 18:26:38.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Delma'/40613, l='ServerLevel[world]', x=-6961.45, y=61.00, z=-2982.06] died: Delma froze to death
+[02Dec2024 18:26:47.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Alfreda'/40625, l='ServerLevel[world]', x=-6974.63, y=59.00, z=-3013.54] died: Alfreda froze to death
+[02Dec2024 18:26:55.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Breann'/40620, l='ServerLevel[world]', x=-6960.46, y=61.00, z=-2982.49] died: Breann froze to death
+[02Dec2024 18:27:28.718] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:27:28.718] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:27:28.719] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 18:28:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 18:29:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
