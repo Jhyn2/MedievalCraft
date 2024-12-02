@@ -1269,3 +1269,102 @@
 [02Dec2024 05:22:47.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [02Dec2024 05:22:57.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ño
 [02Dec2024 05:23:09.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02Dec2024 05:23:23.003] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1704, y=-41, z=-687}
+[02Dec2024 05:23:26.988] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1835, y=18, z=-624}
+[02Dec2024 05:23:27.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[02Dec2024 05:23:45.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
+[02Dec2024 05:24:13.772] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1914, y=-12, z=-356}
+[02Dec2024 05:24:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Hot Stuff]
+[02Dec2024 05:24:44.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2350, y=38, z=-465}
+[02Dec2024 05:25:19.088] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2475, y=4, z=-443}
+[02Dec2024 05:25:20.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Conejos xD
+[02Dec2024 05:25:21.829] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2468, y=26, z=-399}
+[02Dec2024 05:25:23.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Dec2024 05:25:34.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Yo mejor me quede callada
+[02Dec2024 05:25:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [My Name is Nobody]
+[02Dec2024 05:25:53.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02Dec2024 05:26:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yo nomás me burlo
+[02Dec2024 05:26:11.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[02Dec2024 05:26:45.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Dec2024 05:27:03.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3186ms or 63 ticks behind
+[02Dec2024 05:27:27.452] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[02Dec2024 05:27:30.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[02Dec2024 05:27:32.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[02Dec2024 05:27:49.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[02Dec2024 05:28:41.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 05:28:58.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[02Dec2024 05:29:01.577] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2806, y=-52, z=-156}
+[02Dec2024 05:29:07.356] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:29:07.356] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:29:07.356] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 05:29:17.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Dec2024 05:29:29.341] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[02Dec2024 05:29:34.936] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-12}
+[02Dec2024 05:29:34.937] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-10}
+[02Dec2024 05:29:34.943] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-14}
+[02Dec2024 05:29:36.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[02Dec2024 05:29:39.470] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-12}
+[02Dec2024 05:29:39.471] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-10}
+[02Dec2024 05:29:39.498] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-14}
+[02Dec2024 05:29:49.672] [Worker-Main-169/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2832, y=-17, z=131}
+[02Dec2024 05:29:49.709] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2835, y=-17, z=134}
+[02Dec2024 05:29:55.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Dec2024 05:30:32.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02Dec2024 05:30:36.835] [Worker-Main-173/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[02Dec2024 05:30:58.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyncito
+[02Dec2024 05:31:08.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ola wenas
+[02Dec2024 05:31:20.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Lo quiero molestar
+[02Dec2024 05:31:24.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Dec2024 05:31:26.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.2829274035366325,-2.53855774015733,9.94504076077095
+[02Dec2024 05:31:26.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.450760766521853,-2.7116521454997837,11.244241035855737
+[02Dec2024 05:31:26.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.6196516654813422,-2.864321411011815,12.551381950827476
+[02Dec2024 05:31:26.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.7894753111700084,-2.998975703193423,13.86552651017945
+[02Dec2024 05:31:26.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 1.9601216394735275,-3.1177407888976063,15.185848283874861
+[02Dec2024 05:31:26.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.131493573843727,-3.2224915944887016,16.511618360621128
+[02Dec2024 05:31:26.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.3035054927645433,-3.314881805020036,17.842193840658297
+[02Dec2024 05:31:26.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.4760818780591762,-3.3963699707086903,19.177007686397985
+[02Dec2024 05:31:26.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.649156122695331,-3.4682425328460624,20.515559770687332
+[02Dec2024 05:31:26.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 2.882680181935939,-3.5316341326512486,21.84102546121875
+[02Dec2024 05:31:26.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 3.169520977658067,-3.5875455236794096,23.15494895245564
+[02Dec2024 05:31:26.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 3.503387134956938,-3.636859370566242,24.458692223914795
+[02Dec2024 05:31:26.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 3.8787296611662896,-3.6803541835204356,25.753456541529943
+[02Dec2024 05:31:26.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 4.290654344754785,-3.718716608546032,27.04030142185468
+[02Dec2024 05:31:26.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 4.712679915366152,-3.8666598647160413,28.28045913025386
+[02Dec2024 05:31:26.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 5.143614468331634,-4.111253413955438,29.479438753014733
+[02Dec2024 05:31:26.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 4.466113682803552,-2.0987869417769076,21.987255825487296
+[02Dec2024 05:31:26.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 4.911836469394075,-2.5038126320891934,23.11788295562303
+[02Dec2024 05:31:33.031] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2824, y=23, z=533}
+[02Dec2024 05:31:33.830] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:31:33.831] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Dec2024 05:31:33.831] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Dec2024 05:31:42.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
+[02Dec2024 05:31:48.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Díga
+[02Dec2024 05:32:00.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[02Dec2024 05:32:08.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No se como decorar donde esta las hojas
+[02Dec2024 05:32:09.799] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2873, y=-32, z=666}
+[02Dec2024 05:32:09.800] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2872, y=-32, z=666}
+[02Dec2024 05:32:18.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[02Dec2024 05:32:36.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[02Dec2024 05:32:42.778] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[02Dec2024 05:32:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Messi
+[02Dec2024 05:32:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Grafias
+[02Dec2024 05:32:55.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[02Dec2024 05:32:57.696] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[02Dec2024 05:33:06.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Hay toque de seda?
+[02Dec2024 05:33:13.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[02Dec2024 05:33:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Creo que aún no
+[02Dec2024 05:33:18.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[02Dec2024 05:33:20.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> wueno
+[02Dec2024 05:33:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [You Are A Pirate]
+[02Dec2024 05:33:33.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4698ms or 93 ticks behind
+[02Dec2024 05:33:42.754] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-306, y=28, z=17}
+[02Dec2024 05:33:43.099] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2929, y=-47, z=755}
+[02Dec2024 05:33:45.619] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=22, z=15}
+[02Dec2024 05:33:45.620] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=15}
+[02Dec2024 05:33:45.621] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=20}
+[02Dec2024 05:33:45.683] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=22, z=14}
+[02Dec2024 05:33:45.683] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=22, z=14}
+[02Dec2024 05:33:47.796] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-273, y=28, z=15}
+[02Dec2024 05:33:47.796] [Worker-Main-171/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=27, z=20}
+[02Dec2024 05:33:47.832] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=25, z=13}
+[02Dec2024 05:33:50.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind

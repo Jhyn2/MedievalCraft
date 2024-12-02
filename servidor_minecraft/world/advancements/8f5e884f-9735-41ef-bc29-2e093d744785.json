@@ -64,6 +64,7 @@
       "old_growth_woodland": "2024-11-21 18:58:45 +0000",
       "maple_woods": "2024-11-16 03:00:27 +0000",
       "field": "2024-11-16 03:15:29 +0000",
+      "lavender_forest": "2024-12-02 05:28:50 +0000",
       "mediterranean_forest": "2024-11-20 00:10:58 +0000",
       "bog": "2024-11-16 04:30:24 +0000",
       "coniferous_forest": "2024-11-19 03:45:02 +0000",
@@ -892,6 +893,12 @@
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2024-12-02 03:53:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-02 05:25:46 +0000"
     },
     "done": true
   },
