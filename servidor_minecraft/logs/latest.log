@@ -1004,3 +1004,30 @@
 [02Dec2024 03:19:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Sip
 [02Dec2024 03:19:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pero yo lo busco yo ntp
 [02Dec2024 03:20:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> sip
+[02Dec2024 03:20:50.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lou'/286919, l='ServerLevel[world]', x=1978.50, y=71.00, z=5898.51] died: Lou discovered the floor was lava
+[02Dec2024 03:21:12.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Annette'/286917, l='ServerLevel[world]', x=1978.51, y=71.00, z=5898.51] died: Annette discovered the floor was lava
+[02Dec2024 03:21:49.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Joi'/286897, l='ServerLevel[world]', x=1983.48, y=71.10, z=5895.41] died: Joi drowned
+[02Dec2024 03:21:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Como puedo conseguir musgo?
+[02Dec2024 03:22:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 1
+[02Dec2024 03:22:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[02Dec2024 03:23:00.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Grafiaas
+[02Dec2024 03:23:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepito aún ocupa el pico?
+[02Dec2024 03:24:09.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=68, z=1293} BlockPos{x=-378, y=66, z=1293}
+[02Dec2024 03:24:10.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-377, y=68, z=1294} BlockPos{x=-377, y=66, z=1294}
+[02Dec2024 03:25:10.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-379, y=66, z=1297} BlockPos{x=-380, y=64, z=1296}
+[02Dec2024 03:25:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y sí xD
+[02Dec2024 03:25:21.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 03:25:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> en casa
+[02Dec2024 03:25:45.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que no tengo espacio
+[02Dec2024 03:26:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Grafias
+[02Dec2024 03:28:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to 1889.500000, 68.500000, 5758.500000]
+[02Dec2024 03:28:24.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Gondar_80) moved too quickly! 8.577601473738696,1.6138313648349225,7.087051960725148
+[02Dec2024 03:29:10.621] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:29:10.622] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:29:10.622] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Dec2024 03:29:10.622] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:29:10.622] [Worker-Main-169/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Dec2024 03:29:25.112] [Worker-Main-173/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=169, y=73, z=6}
+[02Dec2024 03:29:45.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02Dec2024 03:30:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tons?
+[02Dec2024 03:30:26.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
