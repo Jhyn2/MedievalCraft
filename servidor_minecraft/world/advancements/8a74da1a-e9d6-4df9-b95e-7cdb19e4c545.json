@@ -677,15 +677,9 @@
     },
     "done": true
   },
-  "seadwellers:adv_break_sea_lantern": {
+  "immersive_armors:recipes/misc/divine": {
     "criteria": {
-      "adv_break_sea_lantern": "2024-12-01 07:15:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2024-12-01 06:20:12 +0000"
+      "has_item": "2024-12-01 05:57:39 +0000"
     },
     "done": true
   },
@@ -695,9 +689,15 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/divine": {
+  "dungeons_arise:find_fishing_hut": {
     "criteria": {
-      "has_item": "2024-12-01 05:57:39 +0000"
+      "location0": "2024-12-01 06:20:12 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2024-12-01 07:15:00 +0000"
     },
     "done": true
   },

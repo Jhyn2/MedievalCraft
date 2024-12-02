@@ -459,3 +459,13 @@
 [02Dec2024 00:44:34.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/202832, l='ServerLevel[world]', x=2112.66, y=208.00, z=951.15] died: Gearling couldn't take Pepeowo's heat
 [02Dec2024 00:44:44.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was slain by Gearling
 [02Dec2024 00:44:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to 2113.500000, 207.500000, 958.500000]
+[02Dec2024 00:52:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[02Dec2024 00:52:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was slain by Skeleton
+[02Dec2024 00:52:33.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -328.500000, 85.500000, 1073.500000]
+[02Dec2024 00:53:30.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Dragon Growth Hormone]
+[02Dec2024 00:59:49.685] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[02Dec2024 01:00:03.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.106.18.246:33705] logged in with entity id 210066 at (-397.07995896649277, 98.0, 1160.228427661723)
+[02Dec2024 01:00:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[02Dec2024 01:00:03.501] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[02Dec2024 01:06:19.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ahi esta tu sombrero
+[02Dec2024 01:06:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ese lado va a ser para matarlos
