@@ -1226,3 +1226,9 @@
 [02Dec2024 05:00:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Muchas tenius
 [02Dec2024 05:01:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pues ci
 [02Dec2024 05:01:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya tengo 2
+[02Dec2024 05:03:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Enchanter]
+[02Dec2024 05:04:46.864] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=178, y=24, z=-54}
+[02Dec2024 05:04:46.865] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=179, y=24, z=-54}
+[02Dec2024 05:05:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[02Dec2024 05:10:35.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Kristy'/193104, l='ServerLevel[world]', x=-460.85, y=75.00, z=1112.59] died: Kristy was impaled by Marauder
+[02Dec2024 05:12:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> wenas

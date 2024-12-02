@@ -594,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 05:03:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2024-12-02 04:20:10 +0000"
