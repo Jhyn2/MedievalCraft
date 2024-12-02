@@ -89,6 +89,7 @@
       "snowy_fir_clearing": "2024-11-15 03:30:31 +0000",
       "tundra": "2024-11-25 03:46:41 +0000",
       "glowing_grotto": "2024-11-17 03:13:50 +0000",
+      "undergrowth": "2024-12-02 06:26:55 +0000",
       "rainforest": "2024-11-28 04:59:27 +0000",
       "crag": "2024-11-17 06:41:37 +0000"
     },
@@ -153,10 +154,13 @@
       "minecraft:pillager": "2024-11-16 02:22:47 +0000",
       "minecraft:skeleton": "2024-11-16 03:17:24 +0000",
       "minecraft:ravager": "2024-11-30 02:59:01 +0000",
+      "minecraft:ghast": "2024-12-02 06:27:55 +0000",
+      "minecraft:hoglin": "2024-12-02 06:45:13 +0000",
       "minecraft:guardian": "2024-11-24 01:59:48 +0000",
       "minecraft:vindicator": "2024-11-16 02:09:07 +0000",
       "minecraft:magma_cube": "2024-11-21 05:11:01 +0000",
       "minecraft:spider": "2024-11-16 00:09:30 +0000",
+      "minecraft:piglin_brute": "2024-12-02 06:29:09 +0000",
       "minecraft:creeper": "2024-11-17 02:37:56 +0000",
       "minecraft:slime": "2024-11-16 05:38:25 +0000",
       "minecraft:evoker": "2024-11-21 04:27:34 +0000",
@@ -916,12 +920,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:warped_forest": "2024-12-02 06:20:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-02 06:20:02 +0000"
@@ -934,9 +932,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-02 06:24:08 +0000",
+      "minecraft:warped_forest": "2024-12-02 06:20:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-02 06:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-02 06:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-02 06:46:08 +0000"
     },
     "done": true
   },

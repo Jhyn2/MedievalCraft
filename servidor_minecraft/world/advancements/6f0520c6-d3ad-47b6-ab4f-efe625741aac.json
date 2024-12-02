@@ -83,6 +83,7 @@
       "snowy_coniferous_forest": "2024-12-01 20:52:31 +0000",
       "snowy_fir_clearing": "2024-12-01 22:56:51 +0000",
       "tundra": "2024-12-01 23:01:04 +0000",
+      "undergrowth": "2024-12-02 06:27:07 +0000",
       "crag": "2024-12-02 00:11:55 +0000",
       "snowy_maple_woods": "2024-12-01 20:56:13 +0000"
     },
@@ -135,9 +136,11 @@
       "minecraft:pillager": "2024-12-02 00:22:15 +0000",
       "minecraft:blaze": "2024-12-02 06:20:10 +0000",
       "minecraft:skeleton": "2024-11-16 03:38:47 +0000",
+      "minecraft:hoglin": "2024-12-02 06:27:51 +0000",
       "minecraft:vindicator": "2024-12-02 00:25:38 +0000",
       "minecraft:magma_cube": "2024-12-02 06:21:35 +0000",
       "minecraft:spider": "2024-11-16 03:58:19 +0000",
+      "minecraft:piglin_brute": "2024-12-02 06:29:17 +0000",
       "minecraft:creeper": "2024-11-16 03:57:18 +0000",
       "minecraft:slime": "2024-11-16 05:53:48 +0000",
       "minecraft:zombified_piglin": "2024-12-02 03:05:02 +0000",
@@ -145,6 +148,7 @@
       "minecraft:wither_skeleton": "2024-12-02 02:54:07 +0000",
       "minecraft:husk": "2024-11-16 05:54:52 +0000",
       "minecraft:cave_spider": "2024-11-16 04:22:12 +0000",
+      "minecraft:piglin": "2024-12-02 06:28:29 +0000",
       "minecraft:silverfish": "2024-11-16 04:40:38 +0000",
       "minecraft:stray": "2024-11-16 05:56:00 +0000",
       "minecraft:enderman": "2024-12-02 00:36:00 +0000",
@@ -596,41 +600,11 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-02 05:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-02 05:03:03 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2024-12-02 04:20:10 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-12-02 02:53:20 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-12-02 04:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000"
-    },
-    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -644,9 +618,64 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-02 06:24:03 +0000",
+      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-02 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-02 04:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-02 04:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 05:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-02 06:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-02 06:29:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-02 06:42:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-02 06:42:57 +0000"
     },
     "done": true
   },
