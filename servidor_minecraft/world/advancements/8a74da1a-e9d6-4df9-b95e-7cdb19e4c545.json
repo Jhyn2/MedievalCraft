@@ -727,5 +727,23 @@
     },
     "done": true
   },
+  "quark:crab_in_a_bucket": {
+    "criteria": {
+      "crab_bucket": "2024-12-03 01:18:39 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2024-12-03 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2024-12-03 02:59:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
