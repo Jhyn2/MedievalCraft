@@ -3007,3 +3007,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [04Dec2024 04:48:07.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:33221] logged in with entity id 122 at (-410.63765311604595, 95.0, 1115.5874455096705)
 [04Dec2024 04:48:07.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
 [04Dec2024 04:48:07.965] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[04Dec2024 04:54:36.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 2 [Anvil] to JhynMC]
+[04Dec2024 04:55:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[04Dec2024 04:55:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[04Dec2024 05:00:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[04Dec2024 05:00:16.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
