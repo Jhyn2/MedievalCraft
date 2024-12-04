@@ -3009,3 +3009,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [04Dec2024 19:38:22.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.128.229.249:35825] logged in with entity id 122 at (-405.1970369739532, 92.0, 1170.125372013265)
 [04Dec2024 19:38:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
 [04Dec2024 19:38:22.530] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[04Dec2024 19:50:08.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] /
