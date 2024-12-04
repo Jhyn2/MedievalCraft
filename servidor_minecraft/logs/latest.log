@@ -3015,3 +3015,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [04Dec2024 05:06:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Cloud Storage]
 [04Dec2024 05:07:47.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Revoked the advancement [Cloud Storage] from JhynMC]
 [04Dec2024 05:11:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[04Dec2024 06:05:39.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Limit Breaker]
+[04Dec2024 06:13:42.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[04Dec2024 06:16:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[04Dec2024 06:18:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Would you Like to Know More?]
+[04Dec2024 06:23:56.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]

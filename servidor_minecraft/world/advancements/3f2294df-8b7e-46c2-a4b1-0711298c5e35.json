@@ -975,5 +975,17 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-12-04 06:05:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-04 06:18:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
