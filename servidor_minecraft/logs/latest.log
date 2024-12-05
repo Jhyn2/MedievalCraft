@@ -3014,3 +3014,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [05Dec2024 01:05:02.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [05Dec2024 01:14:00.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 1 [Villager Hat] to JhynMC]
 [05Dec2024 01:17:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[05Dec2024 01:30:48.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[05Dec2024 01:30:48.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[05Dec2024 01:30:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 01:30:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 01:30:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 01:30:59.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 01:30:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 01:30:59.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 01:30:59.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Dec2024 01:30:59.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 01:30:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 01:30:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 01:30:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Dec2024 01:30:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 01:30:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
